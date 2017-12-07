@@ -1,5 +1,5 @@
 # Jekyll settings
-minimal_mistakes_skin    : "dark"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "de"
 title                    : "Smart Home richtig gemacht ..."
