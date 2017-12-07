@@ -1,5 +1,4 @@
-minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "de"
 title                    : "Smart Home richtig gemacht"
