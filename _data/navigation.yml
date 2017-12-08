@@ -2,11 +2,17 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "cFlat"
+  	url: /
+  - title: "cFactory"
+  	url: /
+  - title: "Blog"
+  	url: /
+  - title: "Service"
+  	url: /
+  - title: "About"
+  	url: /
+  - title: "Contact"
+ 	url: /
   # - title: "Sitemap"
   #   url: /sitemap/
