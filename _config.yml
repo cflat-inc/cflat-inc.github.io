@@ -1,5 +1,5 @@
 # Jekyll settings
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "de"
 title                    : "Smart Home richtig gemacht ..."
@@ -75,8 +75,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Chris Gross"
+  avatar           : "/assets/images/Chris-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            :
