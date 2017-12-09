@@ -7,7 +7,7 @@ title_separator          : "-"
 name                     : "(it’s not a cloud solution)"
 description              : "Smart Home richtig gemacht ..."
 url                      : "https://www.cflat-inc.org/"
-baseurl                  : ""
+#baseurl                  : "/"
 repository               : "cflat-inc/cflat-inc.github.io"
 teaser                   : "/assets/images/icon500x300.png"
 # breadcrumbs            : false # true, false (default)
