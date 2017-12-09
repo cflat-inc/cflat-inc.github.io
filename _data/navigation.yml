@@ -3,16 +3,16 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "cFlat"
-  	url: /#
+  	url: /cFlat/
   - title: "cFactory"
-  	url: /#
+  	url: /cFactory/
   - title: "Blog"
-  	url: /#
+  	url: /blog/
   - title: "Service"
-  	url: /#
+  	url: /service/
   - title: "About"
-  	url: /#
+  	url: /about/
   - title: "Contact"
- 	url: /#
+ 	url: /contact/
   # - title: "Sitemap"
   #   url: /sitemap/
