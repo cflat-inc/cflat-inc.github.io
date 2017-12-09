@@ -5,7 +5,7 @@ locale                   : "de"
 title                    : "cFlat-inc"
 title_separator          : "-"
 name                     : "(it’s not a cloud solution)"
-description              : "Smart Home richtig gemacht ..."
+description              : "So wird Smart-Home richtig gemacht ..."
 url                      : "https://www.cflat-inc.org/"
 #baseurl                  : "/"
 repository               : "cflat-inc/cflat-inc.github.io"
@@ -238,7 +238,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: # true
       read_time: true
       comments: # true
       share: true
