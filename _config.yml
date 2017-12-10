@@ -2,9 +2,9 @@
 minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "de"
-title                    : "cFlat-inc"
+title                    : "Smart-Home"
 title_separator          : "-"
-name                     : "(it’s not a cloud solution)"
+name                     : "cFlat-inc"
 description              : "So wird Smart-Home richtig gemacht ..."
 url                      : "https://www.cflat-inc.org"
 baseurl                  : "/"
