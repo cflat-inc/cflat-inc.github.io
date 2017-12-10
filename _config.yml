@@ -2,10 +2,10 @@
 minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "de"
-title                    : "My Smart-Home"
+title                    : "Build a Smart Home"
 title_separator          : "-"
 name                     : "cFlat-inc"
-description              : "So wird Smart-Home richtig gemacht ..."
+description              : "So wird Smart Home richtig gemacht ..."
 url                      : "https://www.cflat-inc.org"
 baseurl                  : "/"
 repository               : "cflat-inc/cflat-inc.github.io"
