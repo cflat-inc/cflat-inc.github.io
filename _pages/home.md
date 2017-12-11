@@ -3,6 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_image: /assets/images/splash.jpg
+  overlay_filter: 0.5
   caption: 'Photo credit: [**pixabay**](https://pixabay.com)'
 excerpt: >-
   Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short
