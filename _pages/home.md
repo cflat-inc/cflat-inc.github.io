@@ -23,9 +23,9 @@ feature_row:
     title: Accepted...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
-<center>
+<center><small>
 Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short
-</center>
+</small></center>
 
 ## Was ist ...
 
