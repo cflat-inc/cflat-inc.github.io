@@ -18,8 +18,8 @@ feature_row:
     alt: placeholder lightbulb-on-outline
     title: Independent...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
-  - image_path: /assets/images/human-female.svg
-    alt: placeholder human-female
+  - image_path: /assets/images/human-male-female.svg
+    alt: placeholder human-male-female
     title: Accepted...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
