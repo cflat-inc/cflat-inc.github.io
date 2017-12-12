@@ -12,14 +12,14 @@ published: true
 feature_row:
   - image_path: /assets/images/security.svg
     alt: placeholder security
-    title: Sichere dein zu Hause
+    title: My home is my castel
     excerpt: This is some sample content that goes here with **Markdown** formatting.
-  - image_path: /assets/images/cloud-off-outline.svg
-    alt: placeholder cloud-off-outline
-    title: Verwende kein Cloud
+  - image_path: /assets/images/lightbulb-on-outline.svg
+    alt: placeholder lightbulb-on-outline
+    title: Open API
     excerpt: This is some sample content that goes here with **Markdown** formatting.
   - image_path: /assets/images/human-female.svg
-    alt: placeholder cloud-off-outline
+    alt: placeholder human-female
     title: WAF-Factor
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
