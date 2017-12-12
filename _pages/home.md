@@ -22,6 +22,19 @@ feature_row:
     alt: placeholder human-male-female
     title: Accepted ...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
+rules_row:
+  - image_path: /assets/images/security-gray.svg
+    alt: placeholder security
+    title: Secure ...
+    excerpt: This is some sample content that goes here with **Markdown** formatting.
+  - image_path: /assets/images/lightbulb-on-outline.svg
+    alt: placeholder lightbulb-on-outline
+    title: Independent ...
+    excerpt: This is some sample content that goes here with **Markdown** formatting.
+  - image_path: /assets/images/human-male-female.svg
+    alt: placeholder human-male-female
+    title: Accepted ...
+    excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
 <p></p>
   
@@ -31,6 +44,6 @@ Ich bin ein Test ...
 
 ## Rules
 
-{% include feature_row %}
+{% include rules_row %}
 
 ## cFlat
