@@ -26,7 +26,6 @@ feature_row:
 <center><small>
 Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short
 </small></center>
-
 ## Was ist ...
 
 Ich bin ein Test ...
