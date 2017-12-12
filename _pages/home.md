@@ -12,15 +12,15 @@ published: true
 feature_row:
   - image_path: /assets/images/security-gray.svg
     alt: placeholder security
-    title: Secure
+    title: Secure...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
   - image_path: /assets/images/lightbulb-on-outline.svg
     alt: placeholder lightbulb-on-outline
-    title: Independent
+    title: Independent...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
   - image_path: /assets/images/human-female.svg
     alt: placeholder human-female
-    title: Accepted
+    title: Accepted...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
 <center>
