@@ -12,15 +12,15 @@ published: true
 feature_row:
   - image_path: /assets/images/security.svg
     alt: placeholder security
-    title: My home is my castel
+    title: Secure
     excerpt: This is some sample content that goes here with **Markdown** formatting.
   - image_path: /assets/images/lightbulb-on-outline.svg
     alt: placeholder lightbulb-on-outline
-    title: Open API
+    title: Independent
     excerpt: This is some sample content that goes here with **Markdown** formatting.
   - image_path: /assets/images/human-female.svg
     alt: placeholder human-female
-    title: WAF-Factor
+    title: Accepted
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
 <center>
