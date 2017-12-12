@@ -27,8 +27,8 @@ feature_row:
 
 Ich bin ein Test
 
-# Rules
+## Rules
 
 {% include feature_row %}
 
-# cFlat
+## cFlat
