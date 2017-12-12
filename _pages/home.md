@@ -22,4 +22,4 @@ feature_row:
     title: WAF-Factor
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
-{% include feature_row %}
+{% include feature_row %} 
