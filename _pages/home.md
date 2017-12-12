@@ -23,7 +23,7 @@ feature_row:
     title: Accepted...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
-<p>
+<p></p>
   
 ## Was ist ...
 
