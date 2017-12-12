@@ -23,10 +23,8 @@ feature_row:
     title: WAF-Factor
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
-# cFlat-inc
-
-## cFlat-rules
+# cFlat-rules
 
 {% include feature_row %}
 
-## cFlat
+# cFlat
