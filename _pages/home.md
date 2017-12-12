@@ -29,7 +29,7 @@ Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short
 
 ## Was ist ...
 
-Ich bin ein Test...
+Ich bin ein Test
 
 ## Rules
 
