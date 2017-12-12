@@ -44,6 +44,6 @@ Ich bin ein Test ...
 
 ## Rules
 
-{% include rules_row %}
+{% include feature_row %}
 
 ## cFlat
