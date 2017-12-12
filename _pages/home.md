@@ -23,6 +23,8 @@ feature_row:
     title: WAF-Factor
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
+Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short
+
 ## Was ist ...
 
 Ich bin ein Test...
