@@ -24,7 +24,7 @@ feature_row:
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
 <center><small>
-Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short
+&copy; 2017 Chris Gross - cFlat-inc.org ALL RIGHTS RESERVED
 </small></center>
 ## Was ist ...
 
