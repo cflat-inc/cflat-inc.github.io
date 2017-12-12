@@ -25,7 +25,7 @@ feature_row:
 ---
 ## Was ist cFlat-inc 
 
-Ich bin ein Test
+Ich bin ein Test...
 
 ## Rules
 
