@@ -23,7 +23,7 @@ feature_row:
     title: WAF-Factor
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
-## it’s not a cloud solution++ 
+## Was ist cFlat-inc 
 
 Ich bin ein Test
 
