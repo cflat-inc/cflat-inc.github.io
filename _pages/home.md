@@ -23,9 +23,8 @@ feature_row:
     title: Accepted...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
 ---
-<center><small>
-&copy; 2017 Chris Gross - cFlat-inc.org ALL RIGHTS RESERVED
-</small></center>
+<p>
+  
 ## Was ist ...
 
 Ich bin ein Test ...
