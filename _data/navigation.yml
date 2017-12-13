@@ -10,8 +10,8 @@ main:
   #	url: /blog/
   #- title: "Service"
   #	url: /service/
-  #- title: "About"
-  #	url: /about/
+  - title: "About"
+  	url: /about/
   #- title: "Contact"
  #	url: /contact/
   # - title: "Sitemap"
