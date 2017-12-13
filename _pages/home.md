@@ -10,7 +10,7 @@ excerpt: >-
   ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
 published: true
 feature_row:
-  - image_path: /assets/images/security-gray.svg
+  - image_path: /assets/images/security.svg
     alt: placeholder security
     title: Secure ...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
