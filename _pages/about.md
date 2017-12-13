@@ -1,3 +1,7 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+   ---
+   layout: page
+   title: About
+   permalink: /about/
+   ---
+   <p></p>
+   
