@@ -6,9 +6,7 @@ header:
   overlay_image: /assets/images/splash.jpg
   overlay_filter: 0.5
   caption: 'Photo credit: [**pixabay**](https://pixabay.com)'
-excerpt: >-
-  Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short
-  ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
+excerpt: The way to build a proper smart home
 feature_row:
   - image_path: /assets/images/security.svg
     alt: placeholder security
