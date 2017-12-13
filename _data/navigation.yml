@@ -2,6 +2,8 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+      - title: "About"
+    url: /about/
   #- title: "cFlat"
   #	url: /cFlat/
   #- title: "cFactory"
@@ -9,9 +11,9 @@ main:
   #- title: "Blog"
   #	url: /blog/
   #- title: "Service"
-  #	url: /service/
-  - title: "About"
-  	url: /about/
+  #  url: /service/
+  #- title: "About"
+  #  url: /about/
   #- title: "Contact"
   #	url: /contact/
   # - title: "Sitemap"
