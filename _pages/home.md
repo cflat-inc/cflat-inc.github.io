@@ -8,15 +8,15 @@ header:
   caption: 'Photo credit: [**pixabay**](https://pixabay.com)'
 excerpt: The way to build a proper smart home
 feature_row:
-  - image_path: /assets/images/security.svg
+  - image_path: /assets/images/security.png
     alt: placeholder security
     title: Secure ...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
-  - image_path: /assets/images/lightbulb-on-outline.svg
+  - image_path: /assets/images/lightbulb-on-outline.png
     alt: placeholder lightbulb-on-outline
     title: Independent ...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
-  - image_path: /assets/images/human-male-female.svg
+  - image_path: /assets/images/human-male-female.png
     alt: placeholder human-male-female
     title: Accepted ...
     excerpt: This is some sample content that goes here with **Markdown** formatting.
