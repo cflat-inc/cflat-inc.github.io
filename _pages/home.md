@@ -11,6 +11,7 @@ intro:
   - image_path: /assets/images/logo-grey.svg
     alt: logo-grey.svg
     excerpt: '!!!'
+    url: /intro/
     btn_label: Was ist cFlat-inc
     btn_class: btn--primary
 feature_row:
