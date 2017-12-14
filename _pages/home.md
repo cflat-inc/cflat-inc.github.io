@@ -24,12 +24,14 @@ feature_row:
     alt: placeholder human-male-female
     title: Accepted ...
     excerpt: '„last but not least“, ohne den WAF-Faktor geht nix.'
+title: Home
 ---
 <p></p>
 
 {% include figure 
 	image_path="/assets/images/logo-grey.svg" 
-    alt="logo-grey.svg" %}
+    alt="logo-grey.svg"
+%}
 
 ## Was ist cFlat-inc
 
