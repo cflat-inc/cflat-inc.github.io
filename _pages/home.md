@@ -34,6 +34,8 @@ published: true
 ---
 <p></p>
 
+## Intro
+
 {% include feature_row id="intro" type="center" %}
 
 ## Rules
