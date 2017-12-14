@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-5 -6.672 180.167 48.531" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="">@font-face { font-style: normal; font-weight: 300; font-stretch: normal; font-variant: normal; font-feature-settings: normal; src: url("http://fonts.googleapis.com/css?family=Rasa") format("truetype"); }</style>
+    <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+  </defs>
+  <title>cFlat-inc - Logo (Grey)</title>
+  <desc>Copyright 2017, 2017 Chris Gross</desc>
+  <g transform="matrix(1, 0, 0, 1, -2.999999, -8.000016)">
+    <title>logo</title>
+    <g id="icon-132-cloud" fill="#157EFB" transform="matrix(2, 0, 0, 2, -3.000003, -7.999988)" style="">
+      <title>icon</title>
+      <path fill="#ff0000" id="cloud" d="m7.10101,16.10215c-1.7764,0.40959 -3.10101,2.00246 -3.10101,3.89785c0,2.20914 1.79794,4 4.00282,4l16.99436,0c2.2107,0 4.00282,-1.79536 4.00282,-4c0,-1.86798 -1.28551,-3.4369 -3.01556,-3.87693l0,0c-0.19148,-2.3089 -2.1261,-4.12307 -4.48444,-4.12307c-1.07623,0 -2.06422,0.37781 -2.83858,1.00804c-0.82139,-2.33458 -3.04598,-4.00804 -5.66142,-4.00804c-3.31371,0 -6,2.68629 -6,6c0,0.37649 0.03468,0.74488 0.10101,1.10215l0,0zm19.78185,-0.73664c1.83043,0.743 3.11714,2.53807 3.11714,4.63449c0,2.7558 -2.23833,5 -4.99944,5l-17.00112,0c-2.76695,0 -4.99944,-2.23858 -4.99944,-5c0,-2.05087 1.23966,-3.81839 3.0119,-4.58846l0,0c-0.0079,-0.13617 -0.0119,-0.27339 -0.0119,-0.41154c0,-3.86599 3.13401,-7 7,-7c2.61276,0 4.89118,1.43145 6.09381,3.55288c0.72681,-0.35416 1.54329,-0.55288 2.40619,-0.55288c2.64865,0 4.86002,1.87225 5.38286,4.36551l0,0l0,0z"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 39.182468, -17.70311)" style="">
+      <title>name</title>
+      <text y="45.448" x="21.351" style="fill: rgb(153, 154, 150); fill-rule: evenodd; font-family: Rasa; font-size: 24px; font-weight: 700; paint-order: stroke; white-space: pre;">cFlat-inc</text>
+      <text style="fill: rgb(51, 51, 51); font-family: Rasa; font-size: 12px; font-weight: 300; white-space: pre;" y="59.546" x="21.349">it’s not a cloud solution</text>
+    </g>
+  </g>
+</svg>
