@@ -31,7 +31,7 @@ feature_row:
 
 Kurz und bündig, **_Flat_** steht für Wohnung und **_inc_** für „**i**t’s **n**ot a **c**loud solution“. 
 
-Denn diese Aussage soll Programm sein. Das Ziel ist es, ein Smart-Home zu bauen:
+Denn diese Aussage soll Programm sein. Das Ziel ist es, ein Smart-Home zu haben:
 
 * Deren Netz keiner löchrigen Scheune gleicht. 
 * Das keine Daten in der Cloud verschenkt und verteilt, denn diese sind das Öl des 21. Jahrhunderts. 
