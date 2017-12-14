@@ -26,8 +26,10 @@ feature_row:
     excerpt: 'Und „last but not least“, ohne den WAF-Faktor geht nix.'
 ---
 <p></p>
-  
-## Was ist cFlat-inc: 
+
+{% include figure image_path="/assets/images/logo-grey.svg"%}
+
+## Was ist cFlat-inc:
 
 Kurz und bündig, **_Flat_** steht für Wohnung und **_inc_** für „**i**t’s **n**ot a **c**loud solution“. 
 
