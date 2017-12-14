@@ -50,7 +50,7 @@ Mein Name ist Chris Gross, ich bin seit über 30 Jahren als Software Engineer t�
 
 ## Rules
 
-Diese drei Rules, sind die, meiner Meinung nach, wichtigsten Punkte die ein Smart-Home genügen muss. 
+Diese drei Rules, sind die, meiner Meinung nach, wichtigsten Punkte die ein Smart-Home genügen muss.{: .text-center}
 
 {% include feature_row %}
 
