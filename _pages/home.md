@@ -1,12 +1,17 @@
 ---
+title: "Home"
 layout: splash
 permalink: /
-published: true
 header:
   overlay_image: /assets/images/splash.jpg
   overlay_filter: 0.5
   caption: 'Photo credit: [**pixabay**](https://pixabay.com)'
 excerpt: The way to build a proper smart home
+intro:
+  - image_path: /assets/images/logo-grey.svg
+  	alt: logo-grey.svg
+    btn_label: "Was ist cFlat-inc"
+    btn_class: "btn--primary"
 feature_row:
   - image_path: /assets/images/security.svg
     alt: placeholder security
@@ -23,11 +28,9 @@ feature_row:
   - image_path: /assets/images/human-male-female.svg
     alt: placeholder human-male-female
     title: Accepted ...
-    excerpt: '„last but not least“, ohne den WAF-Faktor geht nix.'
-title: Home
-intro:
-  - image_path: /assets/images/
+    excerpt: 'Ohne den WAF-Faktor geht nix.'
 ---
+
 ## Intro
 
 {% include feature_row id="intro" type="center" %}
