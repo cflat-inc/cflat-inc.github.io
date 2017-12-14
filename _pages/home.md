@@ -31,7 +31,7 @@ feature_row:
 	image_path="/assets/images/logo-grey.svg" 
     alt="logo-grey.svg" %}
 
-## Was ist cFlat-inc:
+## Was ist cFlat-inc
 
 Kurz und bündig, **_Flat_** steht für Wohnung und **_inc_** für „**i**t’s **n**ot a **c**loud solution“. 
 
