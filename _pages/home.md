@@ -31,10 +31,10 @@ Denn diese Aussage soll Programm sein, das Ziel ist es, ein Smart-Home zu bauen:
 
 * Deren Netz keiner löchrigen Scheune gleicht. 
 * Das keine Daten in der Cloud verschenkt, denn diese sind das Öl des 21. Jahrhunderts. 
-* Bei der man unabhängig von denn einzelnen Anbieter ist. 
+* Bei dem man unabhängig von denn einzelnen Anbieter ist. 
 * Und zum Schluss das wichtigste, dass das System von den (Mit)Bewohner akzeptiert wird.
 
-Zu diesem Zweck, habe ich **cFlat-inc** gestartet, um Möglichkeiten zu entwickeln, wie man eine „fast“ optimale Smart-Home System aufzubauen kann. Denn die Hersteller verkaufen ihre Produkte unter der Prämisse, kaufen, einstecken, App installieren und fertig los. Dass dies nicht stimmt, wissen wahrscheinlich die meisten interessierten Leser.
+Zu diesem Zweck, habe ich **_cFlat-inc_** gestartet, um Möglichkeiten zu entwickeln und aufzuzeigen, wie man ein „fast“ optimales Smart-Home System aufzubauen kann. Denn die Hersteller verkaufen ihre Produkte unter der Prämisse, kaufen, einstecken, App installieren und fertig los. Dass dies nicht stimmt, wissen wahrscheinlich die meisten interessierten Leser.
 
 ### Kurze Info zu meiner Person:
 
