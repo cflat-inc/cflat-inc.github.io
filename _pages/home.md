@@ -12,18 +12,18 @@ feature_row:
     alt: placeholder security
     title: Secure ...
     excerpt: >-
-      Es geht niemanden etwas an, was in meinen 4 Wänden passiert, denn „My home
-      is my castel“.
+      „My home is my castel“, Es geht niemanden etwas an, was in meinen 4 Wänden
+      passiert.
   - image_path: /assets/images/lightbulb-on-outline.svg
     alt: placeholder lightbulb-on-outline
     title: Independent ...
     excerpt: >-
-      Gibt es mein „Haus und Hof“ Lieferant in einem Jahr noch oder haben andere
-      Anbieter zwischenzeitlich bessere Produkte.
+      Gibt es den Lieferant „meines Vertrauens“ in einem Jahr noch oder haben
+      andere Anbieter zwischenzeitlich bessere Produkte.
   - image_path: /assets/images/human-male-female.svg
     alt: placeholder human-male-female
     title: Accepted ...
-    excerpt: 'Und „last but not least“, ohne den WAF-Faktor geht nix.'
+    excerpt: '„last but not least“, ohne den WAF-Faktor geht nix.'
 ---
 <p></p>
 
