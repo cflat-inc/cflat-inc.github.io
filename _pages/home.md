@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: Home
 layout: splash
 permalink: /
 header:
@@ -10,8 +10,8 @@ excerpt: The way to build a proper smart home
 intro:
   - image_path: /assets/images/logo-grey.svg
     alt: logo-grey.svg
-    btn_label: "Was ist cFlat-inc"
-    btn_class: "btn--primary"
+    btn_label: Was ist cFlat-inc
+    btn_class: btn--primary
 feature_row:
   - image_path: /assets/images/security.svg
     alt: placeholder security
@@ -28,7 +28,8 @@ feature_row:
   - image_path: /assets/images/human-male-female.svg
     alt: placeholder human-male-female
     title: Accepted ...
-    excerpt: 'Ohne den WAF-Faktor geht nix.'
+    excerpt: Ohne den WAF-Faktor geht nix.
+published: true
 ---
 <p></p>
 
