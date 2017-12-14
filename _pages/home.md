@@ -10,6 +10,7 @@ excerpt: The way to build a proper smart home
 intro:
   - image_path: /assets/images/logo-grey.svg
     alt: logo-grey.svg
+    excerpt: '!!!'
     btn_label: Was ist cFlat-inc
     btn_class: btn--primary
 feature_row:
@@ -32,8 +33,6 @@ feature_row:
 published: true
 ---
 <p></p>
-
-## Intro
 
 {% include feature_row id="intro" type="center" %}
 
