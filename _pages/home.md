@@ -28,6 +28,8 @@ title: Home
 intro:
   - image_path: /assets/images/
 ---
+## Intro
+
 {% include feature_row id="intro" type="center" %}
 
 ## Rules
