@@ -29,13 +29,13 @@ feature_row:
   
 ## Was ist cFlat-inc: 
 
-Kurz und bündig, *Flat* steht für Wohnung und *inc* für „**i**t’s **n**ot a **c**loud solution“. 
+Kurz und bündig, **_Flat_** steht für Wohnung und **_inc_** für „*i*t’s *n*ot a *c*loud solution“. 
 
-Denn diese Aussage soll Programm sein, das Ziel ist es, ein Smart-Home zu bauen:
+Denn diese Aussage soll Programm sein. Das Ziel ist es, ein Smart-Home zu bauen:
 
 * Deren Netz keiner löchrigen Scheune gleicht. 
-* Das keine Daten in der Cloud verschenkt, denn diese sind das Öl des 21. Jahrhunderts. 
-* Bei dem man unabhängig von denn einzelnen Anbieter ist. 
+* Das keine Daten in der Cloud verschenkt und verteilt, denn diese sind das Öl des 21. Jahrhunderts. 
+* Bei dem man unabhängig von einzelnen Anbietern ist. 
 * Und zum Schluss das wichtigste, dass das System von den (Mit)Bewohner akzeptiert wird.
 
 Zu diesem Zweck, habe ich **_cFlat-inc_** gestartet, um Möglichkeiten zu entwickeln und aufzuzeigen, wie man ein „fast“ optimales Smart-Home System aufzubauen kann. Denn die Hersteller verkaufen ihre Produkte unter der Prämisse, kaufen, einstecken, App installieren und fertig los. Dass dies nicht stimmt, wissen wahrscheinlich die meisten interessierten Leser.
