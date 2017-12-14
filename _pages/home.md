@@ -12,7 +12,7 @@ feature_row:
     alt: placeholder security
     title: Secure ...
     excerpt: >-
-      „My home is my castel“, Es geht niemanden etwas an, was in meinen 4 Wänden
+      „My home is my castel“, es geht niemanden etwas an, was in meinen 4 Wänden
       passiert.
   - image_path: /assets/images/lightbulb-on-outline.svg
     alt: placeholder lightbulb-on-outline
