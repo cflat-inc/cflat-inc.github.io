@@ -25,13 +25,12 @@ feature_row:
     title: Accepted ...
     excerpt: '„last but not least“, ohne den WAF-Faktor geht nix.'
 title: Home
+intro:
+  - image_path: /assets/images/
 ---
 <p></p>
 
-{% include figure 
-	image_path="/assets/images/logo-grey.svg" 
-    alt="logo-grey.svg"
-%}
+{% include feature_row id="intro" type="center" %}
 
 ## Was ist cFlat-inc
 
