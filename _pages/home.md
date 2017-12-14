@@ -27,7 +27,9 @@ feature_row:
 ---
 <p></p>
 
-{% include figure image_path="/assets/images/logo-grey.svg"%}
+{% include figure 
+	image_path="/assets/images/logo-grey.svg" 
+    alt="logo-grey.svg" %}
 
 ## Was ist cFlat-inc:
 
@@ -40,7 +42,7 @@ Denn diese Aussage soll Programm sein. Das Ziel ist es, ein Smart-Home zu haben:
 * Bei dem man unabhängig von einzelnen Anbietern ist. 
 * Und zum Schluss das wichtigste, dass das System von den (Mit)Bewohner akzeptiert wird.
 
-Zu diesem Zweck, habe ich **_cFlat-inc_** gestartet, um Möglichkeiten zu entwickeln und aufzuzeigen, wie man ein „fast“ optimales Smart-Home System aufzubauen kann. Denn die Hersteller verkaufen ihre Produkte unter der Prämisse, kaufen, einstecken, App installieren und fertig los. Dass dies nicht stimmt, wissen wahrscheinlich die meisten interessierten Leser.
+Zu diesem Zweck, habe ich **_cFlat-inc_** gestartet, um Möglichkeiten zu entwickeln und aufzuzeigen, wie man ein „fast“ optimales Smart-Home System aufzubauen kann. Denn die Hersteller verkaufen ihre Produkte unter der Prämisse: kaufen, App installieren, einstecken und fertig los. Dass dies nicht stimmt, wissen wahrscheinlich die meisten interessierten Leser.
 
 ### Kurze Info zu meiner Person:
 
