@@ -1,7 +1,8 @@
 ---
-layout: 
-titel: "Intro"
+layout: splash
+titel: Intro
 permalink: /intro/
+published: true
 ---
 
 ## A New Post
