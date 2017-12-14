@@ -10,10 +10,9 @@ excerpt: The way to build a proper smart home
 intro:
   - image_path: /assets/images/logo-grey.svg
     alt: logo-grey.svg
-    excerpt: '!!!'
     url: /intro/
     btn_label: Was ist cFlat-inc
-    btn_class: btn--primary
+    btn_class: .btn .btn--inverse
 feature_row:
   - image_path: /assets/images/security.svg
     alt: placeholder security
