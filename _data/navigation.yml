@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Intro"
+    url: /intro/
   #- title: "cFlat"
   #	url: /cFlat/
   #- title: "cFactory"
