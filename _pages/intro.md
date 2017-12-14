@@ -5,6 +5,19 @@ permalink: /intro/
 published: true
 ---
 
-## A New Post
+## Was ist cFlat-inc
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Kurz und bündig, **_Flat_** steht für Wohnung und **_inc_** für „**i**t’s **n**ot a **c**loud solution“. 
+
+Denn diese Aussage soll Programm sein. Das Ziel ist es, ein Smart-Home zu bauen:
+
+* Deren Netz keiner löchrigen Scheune gleicht. 
+* Das keine Daten in der Cloud/Internet verteilt und verschenkt werden, denn diese sind das Öl des 21. Jahrhunderts. 
+* Bei dem man unabhängig von einzelnen Anbietern ist. 
+* Und zum Schluss das wichtigste, dass das System von den (Mit)Bewohner akzeptiert wird.
+
+Zu diesem Zweck, habe ich **_cFlat-inc_** gestartet, um Möglichkeiten zu entwickeln und aufzuzeigen, wie man ein „fast“ optimales Smart-Home System aufzubauen kann. Denn die Hersteller verkaufen ihre Produkte unter der Prämisse: kaufen, App installieren, einstecken und fertig los. Dass dies nicht stimmt, wissen wahrscheinlich die meisten interessierten Leser.
+
+## Kurze Info zu meiner Person:
+
+Mein Name ist Chris Gross, ich bin seit über 30 Jahren als Software Engineer tätig und beschäftige mich seit mehr als 10 Jahren intensiv mit dem Thema Smart-Home. Weiter Informationen über mich oder meine Arbeit findest Du [hier](/about/).  
