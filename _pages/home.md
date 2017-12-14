@@ -30,10 +30,6 @@ intro:
 ---
 {% include feature_row id="intro" type="center" %}
 
-## Kurze Info zu meiner Person:
-
-Mein Name ist Chris Gross, ich bin seit über 30 Jahren als Software Engineer tätig und beschäftige mich seit mehr als 10 Jahren intensiv mit dem Thema Smart-Home. Weiter Informationen über mich oder meine Arbeit findest Du [hier](/about/).  
-
 ## Rules
 
 Diese drei Rules, sind meiner Meinung nach, die wichtigsten Punkte die ein Smart-Home im minimum genügen muss:
