@@ -30,6 +30,7 @@ feature_row:
     alt: placeholder human-male-female
     title: Accepted ...
     excerpt: Ohne den WAF-Faktor geht nix.
+published: true
 ---
 <p></p>
 
