@@ -9,16 +9,16 @@ header:
 excerpt: The way to build a proper smart home
 intro:
   - image_path: /assets/images/logo-grey.svg
-    alt: logo-grey.svg
     url: /intro/
+    alt: logo-grey.svg
     excerpt: 'cFlat-inc ist eine Platform, für das „fast“ optimale Smart-Home System'
     btn_label: Was ist cFlat-inc ...
     btn_class: .btn .btn--inverse
 feature_row:
   - image_path: /assets/images/security.svg
+    url: /law/
     alt: security.svg
     title: Secure ...
-    url: /law/
     excerpt: >-
       „My home is my castel“, denn es geht niemanden etwas an, was in meinen 4
       Wänden passiert.
