@@ -2,6 +2,7 @@
 title: cFlat-Law
 layout: splash
 permalink: /law/
+published: true
 ---
 
 ## Secutity
@@ -17,11 +18,10 @@ Weiterführende Artikel:
 
 **Gibt es mein „Haus und Hof“ Lieferant in einem Jahr noch oder haben andere Anbieter zwischenzeitlich bessere Produkte !!**
 
-Es kommt niemanden in den Sinn ein Auto zu kaufen, das nur mit Benzin einer bestimmten Tankstelle läuft. Oder das man eine Wohnung mietet, in der alle Möbel in der Wohnung, automatisch dem Vermieter gehören und dieser auch noch bestimmt, welche Möbel man zu kaufen hat … 
+Es kommt niemanden in den Sinn ein Auto zu kaufen, das nur mit Benzin einer bestimmten Marke läuft. Oder das man eine Wohnung mietet, in der alle Möbel in der Wohnung, automatisch dem Vermieter gehören und dieser auch noch bestimmt, welche Möbel man zu kaufen hat … 
 
+## Accepted
 
-## Accepted
-
-**ohne den WAF-Faktor geht nix …**
+**Ohne den WAF-Faktor geht nix …**
 
 Das wichtigste, das unverzichtbarste und heiligste, ist die Akzeptanz des Partners, zu dem WAS man macht. Auch bekannt als den [WAF-Faktor], den Woman Acceptance Factor oder Woman Approval Factor (WAF). Ohne den geht nix und man ist vom Anfang an, zum scheitern verurteilt (Es kann sich jeder vorstellen, was damit gemeint ist $$).
