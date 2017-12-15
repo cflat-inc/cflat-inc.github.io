@@ -11,7 +11,8 @@ intro:
   - image_path: /assets/images/logo-grey.svg
     alt: logo-grey.svg
     url: /intro/
-    btn_label: Was ist cFlat-inc
+    excerpt: 'cFlat-inc ist eine Platform, für das „fast“ perfekte Smart-Home System'
+    btn_label: Was ist ...
     btn_class: .btn .btn--inverse
 feature_row:
   - image_path: /assets/images/security.svg
