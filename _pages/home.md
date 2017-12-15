@@ -16,13 +16,13 @@ intro:
     btn_class: .btn .btn--inverse
 feature_row:
   - image_path: /assets/images/security.svg
-    url: /law/
     alt: security.svg
     title: Secure ...
     excerpt: >-
       „My home is my castel“, denn es geht niemanden etwas an, was in meinen 4
       Wänden passiert.
   - image_path: /assets/images/lightbulb-on-outline.svg
+    url: /law/
     alt: lightbulb-on-outline.svg
     title: Independent ...
     excerpt: >-
