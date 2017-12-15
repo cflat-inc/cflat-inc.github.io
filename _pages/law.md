@@ -11,7 +11,7 @@ permalink: /law/
 100% Schutz gibt es nicht !!  ABER mit ein wenig Hirn-Schmalz und Aufwand, kann man aus diesem löchrigen Schuppen ein einigermassen dichtes „Castel“ machen. Denn niemand hat Interesse, dass der Tagesablauf an die Hersteller gesendet werden oder die letzten Party-/Ferien-Photos im Netz verteilt werden. 
 
 Weiterführen Artikel:
-http://digitalpresent.tagesspiegel.de/hacker-im-eigenen-haus
+- [Hacker im eigenen Haus](http://digitalpresent.tagesspiegel.de/hacker-im-eigenen-haus)
 
 ## Independent
 
