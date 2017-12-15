@@ -18,6 +18,7 @@ feature_row:
   - image_path: /assets/images/security.svg
     alt: security.svg
     title: Secure ...
+    url: /law/
     excerpt: >-
       „My home is my castel“, denn es geht niemanden etwas an, was in meinen 4
       Wänden passiert.
