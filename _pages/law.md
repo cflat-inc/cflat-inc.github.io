@@ -7,7 +7,7 @@ published: true
 
 ## Secutity
 
-**Es geht niemanden etwas an, was in meinen 4 Wänden passiert, denn „My home is my castel“ !!**
+**„My home is my castel“, denn es geht niemanden etwas an, was in meinen 4 Wänden passiert.**
 
 100% Schutz gibt es nicht !!  ABER mit ein wenig Hirn-Schmalz und Aufwand, kann man aus diesem löchrigen Schuppen ein einigermassen dichtes „Castel“ machen. Denn niemand hat Interesse, dass der Tagesablauf an die Hersteller gesendet werden oder die letzten Party-/Ferien-Photos im Netz verteilt werden. 
 
@@ -16,7 +16,7 @@ Weiterführende Artikel:
 
 ## Independent
 
-**Gibt es mein „Haus und Hof“ Lieferant in einem Jahr noch oder haben andere Anbieter zwischenzeitlich bessere Produkte !!**
+**Gibt es den Lieferant „meines Vertrauens“ in einem Jahr noch oder haben andere Anbieter zwischenzeitlich bessere Produkte.**
 
 Es kommt niemanden in den Sinn ein Auto zu kaufen, das nur mit Benzin einer bestimmten Marke läuft. Oder das man eine Wohnung mietet, in der alle Möbel in der Wohnung, automatisch dem Vermieter gehören und dieser auch noch bestimmt, welche Möbel man zu kaufen hat … 
 
