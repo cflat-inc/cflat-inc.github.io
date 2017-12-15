@@ -39,9 +39,9 @@ published: true
 
 {% include feature_row id="intro" type="center" %}
 
-## Rules
+## cFlat-Law
 
-Diese drei Rules, sind meiner Meinung nach, die wichtigsten Punkte die ein Smart-Home im minimum genügen muss:
+**Diese drei „Gesetze“, sind meiner Meinung nach, die wichtigsten Punkte die ein Smart-Home im minimum genügen muss.**
 
 {% include feature_row %}
 
