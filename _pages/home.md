@@ -16,21 +16,21 @@ intro:
     btn_class: .btn .btn--inverse
 feature_row:
   - image_path: /assets/images/security.svg
-    alt: placeholder security
+    alt: security.svg
     title: Secure ...
     excerpt: >-
-      „My home is my castel“, es geht niemanden etwas an, was in meinen 4 Wänden
-      passiert.
+      „My home is my castel“, denn es geht niemanden etwas an, was in meinen 4
+      Wänden passiert.
   - image_path: /assets/images/lightbulb-on-outline.svg
-    alt: placeholder lightbulb-on-outline
+    alt: lightbulb-on-outline.svg
     title: Independent ...
     excerpt: >-
       Gibt es den Lieferant „meines Vertrauens“ in einem Jahr noch oder haben
       andere Anbieter zwischenzeitlich bessere Produkte.
   - image_path: /assets/images/human-male-female.svg
-    alt: placeholder human-male-female
+    alt: human-male-female.svg
     title: Accepted ...
-    excerpt: Ohne den WAF-Faktor geht nix.
+    excerpt: Ohne guten WAF-Faktor geht gar nix.
 published: true
 ---
 <p></p>
