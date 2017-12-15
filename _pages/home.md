@@ -31,7 +31,7 @@ feature_row:
   - image_path: /assets/images/human-male-female.svg
     alt: human-male-female.svg
     title: Accepted ...
-    excerpt: Ohne guten WAF-Faktor geht gar nix.
+    excerpt: Ohne einen guten WAF-Faktor geht gar nix.
 published: true
 ---
 <p></p>
