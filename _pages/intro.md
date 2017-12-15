@@ -18,6 +18,6 @@ Denn diese Aussage soll Programm sein. Das Ziel ist es, ein Smart-Home zu bauen:
 
 Zu diesem Zweck, habe ich **_cFlat-inc_** gestartet, um Möglichkeiten zu entwickeln und aufzuzeigen, wie man ein „fast“ optimales Smart-Home System aufzubauen kann. Denn die Hersteller verkaufen ihre Produkte unter der Prämisse: kaufen, App installieren, einstecken und fertig los. Dass dies nicht stimmt, wissen wahrscheinlich die meisten interessierten Leser.
 
-## Kurze Info zu meiner Person:
+## Wer bin ich:
 
-Mein Name ist Chris Gross, ich bin seit über 30 Jahren als Software Engineer tätig und beschäftige mich seit mehr als 10 Jahren intensiv mit dem Thema Smart-Home. Weiter Informationen über mich oder meine Arbeit findest Du [hier](/about/).  
+Mein Name ist Chris Gross, ich bin seit über 30 Jahren als Software Engineer tätig und beschäftige mich seit mehr als 10 Jahren intensiv mit dem Thema Smart-Home. Weiter Informationen über mich oder meine Arbeit findest Du [hier](/about/).
