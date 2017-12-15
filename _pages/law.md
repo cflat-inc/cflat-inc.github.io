@@ -10,7 +10,7 @@ permalink: /law/
 
 100% Schutz gibt es nicht !!  ABER mit ein wenig Hirn-Schmalz und Aufwand, kann man aus diesem löchrigen Schuppen ein einigermassen dichtes „Castel“ machen. Denn niemand hat Interesse, dass der Tagesablauf an die Hersteller gesendet werden oder die letzten Party-/Ferien-Photos im Netz verteilt werden. 
 
-Weiterführen Artikel:
+Weiterführende Artikel:
 - [Hacker im eigenen Haus](http://digitalpresent.tagesspiegel.de/hacker-im-eigenen-haus)
 
 ## Independent
@@ -22,6 +22,6 @@ Es kommt niemanden in den Sinn ein Auto zu kaufen, das nur mit Benzin einer best
 
 ## Accepted
 
-Und „last but not least“, ohne den WAF-Faktor geht nix …
+**ohne den WAF-Faktor geht nix …**
 
 Das wichtigste, das unverzichtbarste und heiligste, ist die Akzeptanz des Partners, zu dem WAS man macht. Auch bekannt als den [WAF-Faktor], den Woman Acceptance Factor oder Woman Approval Factor (WAF). Ohne den geht nix und man ist vom Anfang an, zum scheitern verurteilt (Es kann sich jeder vorstellen, was damit gemeint ist $$).
