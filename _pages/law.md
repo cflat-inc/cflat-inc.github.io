@@ -22,6 +22,6 @@ Es kommt niemanden in den Sinn ein Auto zu kaufen, das nur mit Benzin einer best
 
 ## Accepted
 
-**Ohne den WAF-Faktor geht nix …**
+**Ohne einen guten WAF-Faktor geht gar nix.**
 
 Das wichtigste, das unverzichtbarste und heiligste, ist die Akzeptanz des Partners, zu dem WAS man macht. Auch bekannt als den [WAF-Faktor](https://de.wikipedia.org/wiki/Woman_acceptance_factor), den Woman Acceptance Factor oder Woman Approval Factor (WAF). Ohne den geht nix und man ist vom Anfang an, zum scheitern verurteilt (Es kann sich jeder vorstellen, was damit gemeint ist $$).
