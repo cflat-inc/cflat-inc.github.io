@@ -46,7 +46,7 @@ Diese drei „Gesetze“, die wichtigsten Punkte, die ein Smart-Home System im m
 
 {% include feature_row %}
 
-<center><button name="button" onclick="/law">Click me</button></center>
+
 
 ## cFlat
 
