@@ -1,21 +1,21 @@
 # main links
 main:
   - title: "Intro"
-    url: /intro/
+  url: /intro/
   - title: "cFlat"
-  	url: /cflat/
+  url: /cflat/
     #subfolderitems: 
     #    - page: "Law"
-  	#	  url: /law/
+  	#	 url: /law/
   - title: "cFactory"
-    url: /cfactory/
+  url: /cfactory/
   #- title: "Blog"
   #	url: /blog/
   - title: "Service"
-    url: /service/
+  url: /service/
   - title: "About"
-    url: /about/
+  url: /about/
   - title: "Contact"
-    url: /contact/
+  url: /contact/
   # - title: "Sitemap"
-  #   url: /sitemap/
+  # url: /sitemap/
