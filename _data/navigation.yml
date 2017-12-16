@@ -5,7 +5,7 @@ main:
   - title: "cFlat"
     url: /cflat/
     subfolderitems:
-    	- page: "Law"
+        - page: "Law"
   		  url: /law/
   - title: "cFactory"
     url: /cfactory/
