@@ -1,5 +1,5 @@
 ---
-title: Home
+title: cFlat-inc
 layout: splash
 permalink: /
 header:
