@@ -4,9 +4,8 @@ main:
   url: /intro/
   - title: "cFlat"
   url: /cflat/
-    #subfolderitems: 
-    #    - page: "Law"
-  	#	 url: /law/
+  # - page: "Law"
+  # url: /law/
   - title: "cFactory"
   url: /cfactory/
   #- title: "Blog"
