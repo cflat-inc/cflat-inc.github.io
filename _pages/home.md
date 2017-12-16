@@ -1,5 +1,5 @@
 ---
-title: cFlat-inc
+title: cFlat-inc.org
 layout: splash
 permalink: /
 header:
