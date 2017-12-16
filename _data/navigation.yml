@@ -3,8 +3,9 @@ main:
   - title: "Intro"
     url: /intro/
   - title: "cFlat"
-    url: /cflat/
     subfolderitems:
+        - page: "All"
+          url: /cflat/
         - page: "Law"
   		  url: /law/
   - title: "cFactory"
