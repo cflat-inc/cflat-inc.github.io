@@ -31,7 +31,7 @@ feature_row:
   - image_path: /assets/images/human-male-female.svg
     alt: human-male-female.svg
     title: Accepted ...
-    excerpt: Ohne einen guten WAF-Faktor geht gar nix.
+    excerpt: Ohne einen hohen WAF-Faktor geht gar nix.
 published: true
 ---
 <p></p>
@@ -42,8 +42,10 @@ published: true
 
 ## cFlat-Law
 
-Die drei „Gesetze“, sind meiner Meinung nach, die wichtigsten Punkte, die ein Smart-Home System im minimum genügen muss.
+Diese drei „Gesetze“, die wichtigsten Punkte, die ein Smart-Home System im minimum genügen muss.
 
 {% include feature_row %}
 
 ## cFlat
+
+(comming soon)
