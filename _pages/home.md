@@ -50,4 +50,4 @@ Diese drei „Gesetze“, die wichtigsten Punkte, die ein Smart-Home System im m
 
 ## cFlat
 
-(comming soon)
+(coming soon)
