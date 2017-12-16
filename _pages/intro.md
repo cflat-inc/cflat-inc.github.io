@@ -7,7 +7,7 @@ published: true
 
 ## Was ist cFlat-inc
 
-![image-left](/assets/images/logo_grey.svg){: .align-left style="width: initial"}
+![logo_grey.svg](/assets/images/logo-grey.svg){: .align-center style="width: initial"}
 
 Kurz und bündig, **_Flat_** steht für Wohnung und **_inc_** für „**i**t’s **n**ot a **c**loud solution“. 
 
