@@ -41,11 +41,11 @@ published: true
 
 ## cFlat-Law
 
-Diese drei „Gesetze“, die wichtigsten Punkte, die ein Smart-Home System im minimum genügen muss.
+Diese drei „Gesetze“, die wichtigsten Punkte, die ein Smart-Home System im minimum genügen muss.{: .align-center}
 
 {% include feature_row %}
 
-[More info](/law){: .btn .btn--inverse, .align-center}
+[More info](/law){: .btn .btn--inverse .btn--large .align-center}
 
 ## cFlat
 
