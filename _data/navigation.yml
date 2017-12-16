@@ -4,8 +4,8 @@ main:
     url: /intro/
   - title: "cFlat"
     url: /cflat/
-  - title: "Law"
-    url: /law/
+  #- title: "Law"  (Sub)
+  #  url: /law/
   - title: "cFactory"
     url: /cfactory/
   #- title: "Blog"
