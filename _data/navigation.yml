@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "cFlat"
-    url: /cflat/
-  - title: "cFactory"
-    url: /cfactory/
   - title: "Intro"
     url: /intro/
+  - title: "cFlat"
+    url: /cflat/
   - title: "Law"
     url: /law/
+  - title: "cFactory"
+    url: /cfactory/
   #- title: "Blog"
   #	url: /blog/
   #- title: "Service"
