@@ -3,7 +3,7 @@ title: cFlat-inc.org
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/splash.jpg
+  overlay_image: /assets/images/hd-home.jpg
   overlay_filter: 0.5
   caption: 'Photo credit: [**pixabay**](https://pixabay.com)'
 excerpt: The way to build a proper smart home
