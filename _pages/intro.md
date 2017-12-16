@@ -12,11 +12,11 @@ Kurz und bündig, **_Flat_** steht für Wohnung und **_inc_** für „**i**t’s
 Denn diese Aussage soll Programm sein. Das Ziel ist es, ein Smart-Home zu bauen:
 
 * Deren Netz keiner löchrigen Scheune gleicht. 
-* Das keine Daten in der Cloud/Internet verteilt und verschenkt werden, denn diese sind das Öl des 21. Jahrhunderts. 
+* Das keine Daten in der Cloud oder Internet verteilt und verschenkt werden. 
 * Bei dem man unabhängig von einzelnen Anbietern ist. 
 * Und zum Schluss das wichtigste, dass das System von den (Mit)Bewohner akzeptiert wird.
 
-Zu diesem Zweck, habe ich **_cFlat-inc_** gestartet, um Möglichkeiten zu entwickeln und aufzuzeigen, wie man ein „fast“ optimales Smart-Home System aufzubauen kann. Denn die Hersteller verkaufen ihre Produkte unter der Prämisse: kaufen, App installieren, einstecken und fertig los. Dass dies nicht stimmt, wissen wahrscheinlich die meisten interessierten Leser.
+Zu diesem Zweck, habe ich **_cFlat-inc_** gestartet, um Möglichkeiten zu entwickeln und aufzuzeigen, wie man ein „fast“ optimales Smart-Home System aufzubauen kann. Denn die Hersteller verkaufen ihre Produkte unter der Prämisse: kaufen, App installieren, einstecken und fertig los. Dass dies nicht stimmt, wissen wahrscheinlich die interessierten Leser.
 
 ## Wer bin ich
 
