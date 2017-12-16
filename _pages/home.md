@@ -16,19 +16,21 @@ intro:
     btn_class: .btn .btn--inverse
 feature_row:
   - image_path: /assets/images/security.svg
+    url: '/law/#Secure'
     alt: security.svg
     title: Secure ...
     excerpt: >-
       „My home is my castel“, denn es geht niemanden etwas an, was in meinen 4
       Wänden passiert.
   - image_path: /assets/images/lightbulb-on-outline.svg
-    url: /law/
+    url: '/law/#Independent'
     alt: lightbulb-on-outline.svg
     title: Independent ...
     excerpt: >-
       Gibt es den Lieferant „meines Vertrauens“ in einem Jahr noch oder haben
       andere Anbieter zwischenzeitlich bessere Produkte.
   - image_path: /assets/images/human-male-female.svg
+    url: '/law/#Accepted'
     alt: human-male-female.svg
     title: Accepted ...
     excerpt: Ohne einen hohen WAF-Faktor geht gar nix.
