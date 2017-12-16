@@ -6,8 +6,8 @@ main:
     url: /law/
   - title: "cFlat"
     url: /cflat/
-  #- title: "cFactory"
-  #	url: /cfactory/
+  - title: "cFactory"
+    url: /cfactory/
   #- title: "Blog"
   #	url: /blog/
   #- title: "Service"
