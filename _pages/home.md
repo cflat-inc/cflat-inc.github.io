@@ -45,8 +45,7 @@ published: true
 Diese drei „Gesetze“, die wichtigsten Punkte, die ein Smart-Home System im minimum genügen muss.
 
 {% include feature_row %}
-
-[more_label]('/law')
+[more](/law)
 {: .btn .btn--inverse, .align-center}
 
 ## cFlat
