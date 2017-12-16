@@ -1,6 +1,5 @@
 ---
 layout: splash
-titel: Intro
 permalink: /intro/
 published: true
 header:
