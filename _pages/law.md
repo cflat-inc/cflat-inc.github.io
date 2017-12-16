@@ -17,7 +17,7 @@ published: true
 
 ## Independent
 
-![image-left](/assets/images/ightbulb-on-outline.svg){: .align-left style="width: 200px"}
+![image-left](/assets/images/lightbulb-on-outline.svg){: .align-left style="width: 200px"}
 **Gibt es den Lieferant „meines Vertrauens“ in einem Jahr noch oder haben andere Anbieter zwischenzeitlich bessere Produkte.**
 
 Es kommt niemanden in den Sinn ein Auto zu kaufen, das nur mit Benzin einer bestimmten Marke läuft. Oder das man eine Wohnung mietet, in der alle Möbel in der Wohnung, automatisch dem Vermieter gehören und dieser auch noch bestimmt, welche Möbel man zu kaufen hat … 
