@@ -45,7 +45,7 @@ Diese drei „Gesetze“, die wichtigsten Punkte, die ein Smart-Home System im m
 
 {% include feature_row %}
 
-[more](/law){: .btn .btn--inverse, .align-center}
+[More info](/law){: .btn .btn--inverse, .align-center}
 
 ## cFlat
 
