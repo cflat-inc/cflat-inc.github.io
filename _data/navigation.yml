@@ -1,18 +1,18 @@
 # main links
 main:
   - title: "Intro"
-  url: /intro/
+    url: /intro/
   - title: "cFlat"
-  url: /cflat/
+    url: /cflat/
   # - page: "Law"
   # url: /law/
   - title: "cFactory"
-  url: /cfactory/
+    url: /cfactory/
   #- title: "Blog"
   #	url: /blog/
   - title: "Service"
-  url: /service/
+    url: /service/
   - title: "About"
-  url: /about/
+    url: /about/
   - title: "Contact"
-  url: /contact/
+    url: /contact/
