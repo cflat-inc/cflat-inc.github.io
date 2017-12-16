@@ -19,7 +19,7 @@ feature_row:
     alt: security.svg
     title: Secure ...
     excerpt: >-
-      „My home is my castel“, denn es geht niemanden etwas an, was in meinen "4"
+      „My home is my castel“, denn es geht niemanden etwas an, was in meinen [4]
       Wänden passiert.
   - image_path: /assets/images/lightbulb-on-outline.svg
     alt: lightbulb-on-outline.svg
