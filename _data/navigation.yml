@@ -14,7 +14,7 @@ main:
   #  url: /service/
   - title: "About"
     url: /about/
-  #- title: "Contact"
-  #	url: /contact/
+  - title: "Contact"
+    url: /contact/
   # - title: "Sitemap"
   #   url: /sitemap/
