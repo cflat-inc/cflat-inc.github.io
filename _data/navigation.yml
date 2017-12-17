@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: Intro
-    url: /intro/
   - title: cFlat
     url: /cflat/
   - title: cFactory
