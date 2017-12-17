@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Intro"
+  - title: Intro
     url: /intro/
-  - title: "cFlat"
+  - title: cFlat
     subfolderitems:
-    - page: "Overview"
+    - page: Overview
       url: /cflat/
-    - page: "Law"
+    - page: Law
       url: /law/
   - title: "cFactory"
     url: /cfactory/
