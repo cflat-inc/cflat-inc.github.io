@@ -14,7 +14,7 @@ header:
 ![security.svg](/assets/images/security.svg){: .align-left style="width: 200px"}
 **„My home is my castel“, denn es geht niemanden etwas an, was in meinen [4] Wänden passiert.** 
 
-100% Schutz gibt es nicht !! ABER (da bin ich sicher) mit ein wenig Hirn-Schmalz und leider auch Aufwand, kann man aus diesem löchrigen Schuppen ein einigermassen dichtes „Castel“ machen. Denn niemand hat Interesse, dass der Tagesablauf an die Hersteller gesendet oder die letzten Party-/Ferien-Photos im Netz verteilt werden.
+100% Schutz gibt es nicht !! ABER (da bin ich sicher) mit ein wenig Hirn-Schmalz und leider auch Aufwand, kann man aus diesem löchrigen Schuppen ein einigermassen sicheres „Castel“ machen. Denn niemand hat Interesse, dass der Tagesablauf an die Hersteller gesendet oder die letzten Party-/Ferien-Photos im Netz verteilt werden.
 
 > Weiterführende Artikel:
 - [Hacker im eigenen Haus](http://digitalpresent.tagesspiegel.de/hacker-im-eigenen-haus)
