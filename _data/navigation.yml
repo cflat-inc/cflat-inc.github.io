@@ -3,11 +3,7 @@ main:
   - title: Intro
     url: /intro/
   - title: cFlat
-    subfolderitems:
-    - page: Overview
-      url: /cflat/
-    - page: Law
-      url: /law/
+  	url: /cflat/
   - title: cFactory
     url: /cfactory/
   #- title: "Blog"
