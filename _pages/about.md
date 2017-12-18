@@ -14,7 +14,7 @@ author: Chris Gross
 
 ## Latest - Projects
 
-### [cFlat-inc](https://github.com/cflat-inc/cflat-inc.github.io)
+### [cFlat-inc](https://github.com/cflat-inc/cflat-inc.github.io) 
 Aufbau dieser Homepage. 
 
 ### [myStrom - Smart Home app for Homey](https://github.com/cgHome/ch.mystrom.smarthome)
