@@ -2,7 +2,7 @@
 minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "de"
-title                    : "cFlat-inc (Alpha)"
+title                    : "cFlat-inc"
 title_separator          : "-"
 name                     : "cFlat-inc"
 description              : "The way to build a proper smart home ..."
