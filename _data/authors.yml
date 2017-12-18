@@ -2,7 +2,7 @@
 
 Chris Gross:
   name: "Chris Gross"
-  uri: "https://cFlat-inc.org"
+  uri: # "https://cFlat-inc.org"
   email: "Chris.Gross@cFlat-inc.org"
   bio: "I build stuff. Virtual and physical. For both business and pleasure. Join me in my development, smart home and design  journey."
   avatar: "/assets/images/chris-photo.jpg"
