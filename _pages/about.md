@@ -18,13 +18,13 @@ author: Chris Gross
 Aufbau dieser Homepage. 
 
 ### [myStrom - Smart Home app for Homey](https://github.com/cgHome/ch.mystrom.smarthome)
-Integration der [myStrom](https://myStrom.ch)-Devices ins [Homey](https://www.athom.com)-Universum.
+Integration der [myStrom](https://myStrom.ch)-Devices ins [Homey](https://athom.com)-Universum.
 
 ### [cFlat - Smart Home Gateway](https://github.com/cgHome/cflat)
-cFlat ist eine Integrationsplattform zur vereinfachten Einbindung verschiedener Smart Home Geräte ins Apple Homekit Universum. Die Plattform basiert auf HypriotOS, diese Distribution wurde für den Einsatz von Docker optimiert. Das OS selbst, setzt auf einer Debian-basierten Distribution (Raspbian Lite) auf und ist somit auf allen Raspberry Pi. Modellen (ARMv6 & ARMv7) und deren Artverwandten lauffähig.
+cFlat ist eine Integrationsplattform zur vereinfachten Einbindung verschiedener Smart Home Geräte ins Apple Homekit Universum. Die Plattform basiert auf [HypriotOS](https://hypriot.com), diese Distribution wurde für den Einsatz von Docker optimiert. Das OS selbst, setzt auf einer Debian-basierten Distribution (Raspbian Lite) auf und ist somit auf allen Raspberry Pi. Modellen (ARMv6 & ARMv7) und deren Artverwandten lauffähig.
 
 ### [homebridge-digitalSTROM](https://github.com/cgHome/homebridge-digitalSTROM)
-Dies ist eine Homekit/Siri Integration, für das [digitalSTROM](https://www.digitalstrom.com) Smart Home System.
+Dies ist eine Homekit/Siri Integration, für das [digitalSTROM](https://digitalstrom.com) Smart Home System.
 
 ## Wie alles begann
 
