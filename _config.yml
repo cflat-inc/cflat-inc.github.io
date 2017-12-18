@@ -2,7 +2,8 @@
 minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "de"
-title                    : "[cFlat-inc]"
+#title                    : "[cFlat-inc]"
+title                    : "/assets/images/logo-grey.svg"
 title_separator          : "-"
 name                     : "cFlat-inc"
 description              : "The way to build a proper smart home ..."
