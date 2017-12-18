@@ -1,5 +1,5 @@
 ---
-title: About ME
+title: About me
 permalink: /about/
 published: true
 layout: single
