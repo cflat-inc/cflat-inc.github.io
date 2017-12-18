@@ -14,12 +14,14 @@ author: Chris Gross
 
 ## Latest - Projects
 
+### [cFlat-inc](https://cFlat-inc.org)
+Aufbau einer Homepage zum Thema: 'The way to build a proper smart home'
+
 ### [cFlat - Smart Home Gateway](https://github.com/cgHome/cflat)
 cFlat ist eine Integrationsplattform zur vereinfachten Einbindung verschiedener Smart Home Geräte ins Apple Homekit Universum. Die Plattform basiert auf HypriotOS, diese Distribution wurde für den Einsatz von Docker optimiert. Das OS selbst, setzt auf einer Debian-basierten Distribution (Raspbian Lite) auf und ist somit auf allen Raspberry Pi. Modellen (ARMv6 & ARMv7) und deren Artverwandten lauffähig.
 
 ### [homebridge-digitalSTROM](https://github.com/cgHome/homebridge-digitalSTROM)
-
-
+Dies ist eine Homekit/Siri integration für das digitalSTROM Smart Home System.
 
 ## Wie alles begann
 
