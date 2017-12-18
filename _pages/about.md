@@ -8,6 +8,7 @@ header:
   overlay_filter: 0.5
   caption: 'Photo credit: [**pixabay**](https://pixabay.com)'
 author_profile: true
+author: Chris Gross
 ---
 <p></p>
 ---
