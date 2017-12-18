@@ -76,8 +76,8 @@ analytics:
 # Site Author
 author:
   name             : "Chris Gross"
-  avatar           : "/assets/images/chris-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : # "/assets/images/chris-photo.jpg"
+  bio              : # "I am an amazing person."
   location         : "Zürich, Switzerland"
   email            : "support@cflat-inc.org"
   uri              :
