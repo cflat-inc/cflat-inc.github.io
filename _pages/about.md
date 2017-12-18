@@ -18,7 +18,7 @@ author: Chris Gross
 Aufbau dieser Homepage.
 
 ### [myStrom - Smart Home app for Homey](https://github.com/cgHome/ch.mystrom.smarthome)
-Integration der [myStrom-Devices](myStrom.ch) ins [Homey-Universum](www.athom.com)
+Integration der [myStrom-Devices](https://myStrom.ch) ins [Homey-Universum](https://www.athom.com)
 
 ### [cFlat - Smart Home Gateway](https://github.com/cgHome/cflat)
 cFlat ist eine Integrationsplattform zur vereinfachten Einbindung verschiedener Smart Home Geräte ins Apple Homekit Universum. Die Plattform basiert auf HypriotOS, diese Distribution wurde für den Einsatz von Docker optimiert. Das OS selbst, setzt auf einer Debian-basierten Distribution (Raspbian Lite) auf und ist somit auf allen Raspberry Pi. Modellen (ARMv6 & ARMv7) und deren Artverwandten lauffähig.
