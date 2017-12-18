@@ -76,7 +76,7 @@ analytics:
 # Site Author
 author:
   name             : "[Chris Gross] cFla-inc"
-  avatar           : # "/assets/images/chris-photo.jpg"
+  avatar           : "/assets/images/icon500x300.png"
   bio              : # "I am an amazing person."
   location         : "Zürich, Switzerland"
   email            : "support@cflat-inc.org"
