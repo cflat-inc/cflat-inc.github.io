@@ -20,7 +20,7 @@ Als ein langjähriger Freund und Mentor, nach einem USA Aufenthalt, mich mit ein
 
 Zwischenzeitlich hatte ich meine ersten Schritte in der OO-Welt mit Smalltalk, bei der Entwicklung eines CORBA-Basierenden Frameworks sowie eines Clients, mit den ersten rudimentären interaktiven HTML-Pages gemacht. Dieses Projekt hatte meinen zukünftigen Weg bis Heute vorbestimmt.
 
-Nachdem ich, mit dem damals neuen JavaScript, an einem Projekt eines SOA basierenden System mitgearbeitet habe, sind auch Themen wie Server-Side Javascript und (Micro)Services dazugekommen.
+Nachdem ich, mit dem damals neuen JavaScript, an einem Projekt eines SOA System mitgearbeitet habe, sind auch Themen wie Server-Side Javascript und (Micro)Services dazugekommen.
 
 Heute beschäftige ich mich neben der klassischen Web-Entwicklung (Frontend & Backend), hauptsächlich mit innovativen Technologien wie Docker, Internet of things (IoT) und Smart-Home Automation. 
 
