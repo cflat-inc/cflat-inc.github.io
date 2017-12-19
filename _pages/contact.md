@@ -24,7 +24,7 @@ published: true
     <label for="message">Message: </label>
     <textarea id="message" class="form-control" id="textarea" name="message" style="height:200px"></textarea>
   </div>
-  <div class="form-group">
+  <div align="right" class="form-group">
     <input type="submit" value="Send">
   </div>
     <input type="text" name="_gotcha" style="display:none" />
