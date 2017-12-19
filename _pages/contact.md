@@ -10,7 +10,7 @@ published: true
 ---
 <p></p>
 
-## cFlat-inc Contact Form 
+## Contact Form 
 
 <form class="form-horizontal" action="//formspree.io/{{site.contactEmail}}" method="POST">
 <fieldset>
