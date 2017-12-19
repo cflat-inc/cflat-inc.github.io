@@ -17,9 +17,11 @@ published: true
     <input type="text" name="name" placeholder="Your Name">
   </div>
   <div class="form-group">
+    <label for="contact_name">eMail: </label>
     <input type="email" name="_replyto" placeholder="Your Email">
   </div>
   <div class="form-group">
+    <label for="contact_name">Message: </label>
     <textarea class="form-control" id="textarea" name="message">Your Message</textarea>
   </div>
   <div class="form-group">
