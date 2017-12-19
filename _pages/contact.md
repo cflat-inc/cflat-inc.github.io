@@ -13,16 +13,16 @@ published: true
 <form class="form-horizontal" action="//formspree.io/{{site.contactEmail}}" method="POST">
 <fieldset>
   <div class="form-group">
-    <label for="contact_name">Name: </label>
-    <input type="text" name="name" placeholder="Your Name">
+    <label for="name">Name: </label>
+    <input type="text" id="name" name="name" placeholder="Your Name">
   </div>
   <div class="form-group">
-    <label for="contact_name">eMail: </label>
-    <input type="email" name="_replyto" placeholder="Your Email">
+    <label for="email">eMail: </label>
+    <input type="email" id="email" name="_replyto" placeholder="Your Email">
   </div>
   <div class="form-group">
-    <label for="contact_name">Message: </label>
-    <textarea class="form-control" id="textarea" name="message" style="height:200px"></textarea>
+    <label for="message">Message: </label>
+    <textarea id="message" class="form-control" id="textarea" name="message" style="height:200px"></textarea>
   </div>
   <div class="form-group">
     <input type="submit" value="Send">
