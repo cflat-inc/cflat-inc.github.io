@@ -12,6 +12,7 @@ repository               : "cflat-inc/cflat-inc.github.io"
 teaser                   : "/assets/images/icon500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+contactEmail			 : "info@cflat-inc.org"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
