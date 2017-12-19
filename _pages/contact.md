@@ -10,13 +10,20 @@ published: true
 ---
 <p></p>
 
-<form method="POST" action="https://api.staticman.net/v2/entry/eduardoboucas/staticman/gh-pages/comments">
-  <input name="options[redirect]" type="hidden" value="https://my-site.com">
-  <!-- e.g. "2016-01-02-this-is-a-post" -->
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <label><input name="fields[name]" type="text">Name</label>
-  <label><input name="fields[email]" type="email">E-mail</label>
-  <label><textarea name="fields[message]"></textarea>Message</label>
-  
-  <button type="submit">Go!</button>
+<form class="form-horizontal" action="//formspree.io/youremail@yourweb.com" method="POST">
+<fieldset>
+  <div class="form-group">
+    <input type="text" name="name" placeholder="Your Name">
+  </div>
+  <div class="form-group">
+    <input type="email" name="_replyto" placeholder="Your Email">
+  </div>
+  <div class="form-group">
+    <textarea class="form-control" id="textarea" name="message">Your Message</textarea>
+  </div>
+  <div class="form-group">
+    <input type="submit" value="Send">
+  </div>
+    <input type="text" name="_gotcha" style="display:none" />
+</fieldset>
 </form>
