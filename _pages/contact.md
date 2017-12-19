@@ -10,6 +10,8 @@ published: true
 ---
 <p></p>
 
+## Quick Contact
+
 <form class="form-horizontal" action="//formspree.io/{{site.contactEmail}}" method="POST">
 <fieldset>
   <div class="form-group">
