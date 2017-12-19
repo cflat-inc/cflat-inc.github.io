@@ -10,7 +10,7 @@ published: true
 ---
 <p></p>
 
-<form class="form-horizontal" action="//formspree.io/youremail@yourweb.com" method="POST">
+<form class="form-horizontal" action="//formspree.io/{{site.contactEmail}}" method="POST">
 <fieldset>
   <div class="form-group">
     <input type="text" name="name" placeholder="Your Name">
