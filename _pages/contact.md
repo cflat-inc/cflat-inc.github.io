@@ -13,6 +13,7 @@ published: true
 <form class="form-horizontal" action="//formspree.io/{{site.contactEmail}}" method="POST">
 <fieldset>
   <div class="form-group">
+    <label for="contact_name">Name: </label>
     <input type="text" name="name" placeholder="Your Name">
   </div>
   <div class="form-group">
