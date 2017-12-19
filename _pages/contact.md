@@ -22,7 +22,7 @@ published: true
   </div>
   <div class="form-group">
     <label for="contact_name">Message: </label>
-    <textarea class="form-control" id="textarea" name="message">Your Message</textarea>
+    <textarea class="form-control" id="textarea" name="message" style="height:200px"></textarea>
   </div>
   <div class="form-group">
     <input type="submit" value="Send">
