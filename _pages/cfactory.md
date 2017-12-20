@@ -24,4 +24,5 @@ Da das ganze zurzeit noch im Traum-Stadium ist, baue ich zwischenzeitlich eine v
 
 (coming soon)
 
+Fussnoten:
 [^1]: nach Martin Luther King
