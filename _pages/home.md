@@ -11,7 +11,9 @@ intro:
   - image_path: /assets/images/logo-grey.svg
     url: /intro/
     alt: logo-grey.svg
-    excerpt: 'cFlat-inc ist eine Platform, für das „fast“ optimale Smart-Home System'
+    excerpt: >-
+      cFlat-inc ist als eine Platform gedacht, für das wie man ein „fast“
+      optimales Smart-Home System bauen kann oder sollte oder ....
     btn_label: Was ist cFlat-inc ...
     btn_class: .btn .btn--inverse
 feature_row:
