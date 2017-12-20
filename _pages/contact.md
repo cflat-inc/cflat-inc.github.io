@@ -28,7 +28,7 @@ Have a question or just want to get in touch? Let's chat.
     <label for="message">Message: </label>
     <textarea id="message" class="form-control" name="message" style="height:200px" placeholder="MESSAGE"></textarea>
   </div>
-  <div align="right" class="form-group">
+  <div class="form-group">
     <input type="submit" value="Send">
   </div>
     <input type="text" name="_gotcha" style="display:none" />
