@@ -12,7 +12,7 @@ header:
 ## Secure
 
 ![security.svg](/assets/images/security.svg){: .align-left style="width: 200px"}
-**„My home is my castel“, denn es geht niemanden etwas an, was in meinen [4] Wänden passiert.** 
+**„My home is my castel“, denn es geht niemanden etwas an, was in meinen [vier] Wänden passiert.** 
 
 100% Schutz gibt es nicht !! ABER (da bin ich sicher) mit ein wenig Hirn-Schmalz und leider auch Aufwand, kann man aus diesem löchrigen Schuppen, ein einigermassen sicheres „Castel“ machen. Denn niemand hat Interesse, dass der Tagesablauf an die Hersteller gesendet oder die letzten Party-/Ferien-Photos im Netz verteilt werden.
 
@@ -31,4 +31,4 @@ Es kommt niemanden in den Sinn ein Auto zu kaufen, das nur mit Benzin einer best
 ![human-male-female.svg](/assets/images/human-male-female.svg){: .align-left style="width: 200px"}
 **Ohne einen hohen WAF-Faktor geht gar nix.**
 
-Das wichtigste, das unverzichtbarste und heiligste, ist die Akzeptanz des Partners, zu dem WAS man macht, auch bekannt als den [WAF-Faktor](https://de.wikipedia.org/wiki/Woman_acceptance_factor), den Woman Acceptance Factor oder Woman Approval Factor (WAF). Ohne den geht nix und man ist vom Anfang an, zum scheitern verurteilt (Es kann sich sicher jeder vorstellen, was damit gemeint ist $$).
+Das wichtigste, das unverzichtbarste und heiligste, ist die Akzeptanz des Partners, zu dem WAS man macht, auch bekannt als den [WAF-Faktor](https://de.wikipedia.org/wiki/Woman_acceptance_factor), den Woman Acceptance Factor oder Woman Approval Factor (WAF). Ohne den geht nix und man ist vom Anfang an, zum scheitern verurteilt (Es kann sich sicher jeder vorstellen, was damit gemeint ist :kissing_closed_eyes:).
