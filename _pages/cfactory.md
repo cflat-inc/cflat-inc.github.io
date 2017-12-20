@@ -9,13 +9,12 @@ header:
 published: true
 ---
 <p></p>
-~~~~~~
-„I Have a Dream“ (nach Martin Luther King), jeder Mensch hat seinen Traum, meiner heisst **cFactory**. 
+
+## „I Have a Dream“ (nach Martin Luther King), jeder Mensch hat seinen Traum, meiner heisst **cFactory**. 
 
 Ich suche einen ganz grosser Raum, in dem ich mein Büro, Labor, Demo-Wohnung einrichten und zusätzlich auch noch *wohnen* kann. Für diesen Traum suche ich, in der Region Zürich, einen Lagerraum, Fabrikhalle oder Ähnliches, mit der minimum Grösse von 14m Breite x 20m Länge und 6m Höhe, bei der die Miete bezahlbar und der WAF-Faktor hoch ist.
 
 Falls Ihr so einen Raum besitzt oder jemanden kennt der so einen hat, bitte [informiert](/contact) mich. VIELEN DANK !!
-~~~~~~
 
 ## Virtuelle cFactory
 
