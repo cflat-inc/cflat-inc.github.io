@@ -18,10 +18,12 @@ Für diesen Traum suche ich, in der Region Zürich, einen Lagerraum, Fabrikhalle
 
 Falls Ihr so einen Raum besitzt oder jemanden kennt der so einen hat, bitte [informiert](/contact) mich. VIELEN DANK !!
 
-[^1]: [nach Martin Luther King](https://de.wikipedia.org/wiki/I_Have_a_Dream)
-
 ## Virtuelle cFactory
 
 Da das ganze zurzeit noch im Traum-Stadium ist, baue ich zwischenzeitlich eine virtuelle cFactory, in der ich ein cFlat Smart Home System aufbaue, bei der die Komponente getestet, sie in der Wohnung eingebaut sowie aufeinander abgestimmt sind (Was zum Teil meiner aktuellen Wohnung entspricht).  
 
 (coming soon)
+
+---
+
+[^1]: [nach Martin Luther King](https://de.wikipedia.org/wiki/I_Have_a_Dream)
