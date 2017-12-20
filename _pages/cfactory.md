@@ -10,7 +10,7 @@ published: true
 ---
 <p></p>
 
-## „I Have a Dream“[^1], jeder Mensch hat seinen Traum, meiner heisst **cFactory**. 
+## „I Have a Dream“[^1], jeder Mensch hat seinen Traum, meiner heisst _cFactory_. 
 
 Ich suche einen ganz grosser Raum, in dem ich mein Büro, Labor, Demo-Wohnung einrichten und zusätzlich auch noch _wohnen_ kann.
 
@@ -25,5 +25,4 @@ Da das ganze zurzeit noch im Traum-Stadium ist, baue ich zwischenzeitlich eine v
 (coming soon)
 
 Fussnoten:
-
-[^1]: nach Martin Luther King
+[^1]: [nach Martin Luther King](https://de.wikipedia.org/wiki/I_Have_a_Dream)
