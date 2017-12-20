@@ -24,6 +24,6 @@ Da das ganze zurzeit noch im Traum-Stadium ist, baue ich zwischenzeitlich eine v
 
 (coming soon)
 
-___
+### Fussnoten
 
 [^1]: [nach Martin Luther King](https://de.wikipedia.org/wiki/I_Have_a_Dream)
