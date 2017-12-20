@@ -20,7 +20,7 @@ Falls Ihr so einen Raum besitzt oder jemanden kennt der so einen hat, bitte [inf
 
 ## Virtuelle cFactory
 
-Da das ganze zurzeit noch im Traum-Stadium ist, baue ich zwischenzeitlich eine virtuelle cFactory, in der ich ein cFlat Smart Home System aufbaue, bei der die Komponente getestet, sie in der Wohnung eingebaut, sowie aufeinander abgestimmt sind (Was zum Teil meiner aktuellen Wohnung entspricht).  
+Da das ganze zurzeit noch im Traum-Stadium ist, baue ich zwischenzeitlich eine virtuelle cFactory, in der ich ein cFlat Smart Home System aufbaue, bei der die Komponente getestet, in der "Wohnung" eingebaut, sowie aufeinander abgestimmt sind (Was zum Teil meiner aktuellen Wohnung entspricht).  
 
 (coming soon)
 
