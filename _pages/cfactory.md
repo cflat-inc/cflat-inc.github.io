@@ -14,7 +14,7 @@ published: true
 
 Ich suche einen ganz grosser Raum, in dem ich mein Büro, Labor, Demo-Wohnung einrichten und zusätzlich auch noch _wohnen_ kann.
 
-Für diesen Traum suche ich, in der Region Zürich, einen Lagerraum, Fabrikhalle oder Ähnliches, mit der minimum Grösse von 14m Breite x 20m Länge und 6m Höhe, bei dem die Miete bezahlbar und der WAF-Faktor hoch ist.
+Für diesen Traum suche ich, in der Region Zürich, einen Lagerraum, Fabrikhalle oder Ähnliches, mit der minimum Grösse von 20m Länge, 14m Breite und 6m Höhe, bei dem die Miete bezahlbar und der WAF-Faktor hoch ist.
 
 Falls Ihr so einen Raum besitzt oder jemanden kennt der so einen hat, bitte [informiert](/contact) mich. VIELEN DANK !!
 
