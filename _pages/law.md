@@ -1,5 +1,5 @@
 ---
-title: cFlat-Law
+title: cFlat’s-Law
 layout: splash
 permalink: /law/
 published: true
