@@ -19,7 +19,7 @@ Have a question or just want to get in touch? Let's chat.
   <div class="form-group">
     <label for="name">Name: </label>
     <input type="text" id="name" name="name" placeholder="Your Name">
-  </div><br/>
+  </div>
   <div class="form-group">
     <label for="email">E-Mail: </label>
     <input type="email" id="email" name="_replyto" placeholder="Your Email">
