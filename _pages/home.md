@@ -12,7 +12,7 @@ intro:
     url: /intro/
     alt: logo-grey.svg
     excerpt: >-
-      cFlat-inc ist als eine Platform gedacht, für das wie man ein „fast“
+      cFlat-inc ist als eine Platform gedacht, für das, wie man ein „fast“
       optimales Smart-Home System bauen kann oder sollte oder ....
     btn_label: Was ist cFlat-inc ...
     btn_class: .btn .btn--inverse
@@ -41,7 +41,7 @@ published: true
 
 {% include feature_row id="intro" type="center" %}
 
-## Law
+## cFlat's-Law
 
 Diese drei „Gesetze“, sind die wichtigsten Punkte, die ein Smart-Home System im minimum genügen muss.
 
