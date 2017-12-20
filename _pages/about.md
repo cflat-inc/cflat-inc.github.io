@@ -38,4 +38,4 @@ Nachdem ich, mit dem damals neuen JavaScript, an einem Projekt eines SOA Systems
 
 Heute beschäftige ich mich neben der klassischen Web-Entwicklung (Frontend & Backend), hauptsächlich mit innovativen Technologien wie Docker, Internet of things (IoT) und Smart-Home Automation. 
 
-[More info](/){: .btn .btn--inverse .btn--large .align-center}
+[More info](/downloads/Curriculum-Vitae.pdf){: .btn .btn--inverse .btn--large .align-center}
