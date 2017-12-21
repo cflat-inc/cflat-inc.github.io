@@ -6,7 +6,31 @@ header:
   overlay_image: /assets/images/hd-home.jpg
   overlay_filter: 0.5
   caption: 'Photo credit: [**pixabay**](https://pixabay.com)'
+published: true
 ---
 <p></p>
 
-(coming soon)
+Smart-Home ist in aller Munde und ein Riesen-Hype, aber niemand weiss genau, wie man es richtig installieren muss. Aus diesem Grund werden verschiedene Services von der Hilfe beim Start, bis zur Entwicklung von Schnittstellen zu diversen Hersteller angeboten:
+
+### Advice
+
+Für alle denen ein sicheres Smart-Home wichtig ist und nicht wissen, wie sie starten müssen. 
+
+### Builder
+
+Wir installieren Ihnen ein individuelles, denn Bedürfnissen angepasstes cFlat Smart-Home System. 
+
+### Cloud-Free
+
+Wenn Sie bereits ein Smart-Home System besitzen und dieses Save und Cloud-Free machen wollen.
+
+### Integration
+
+Für Hersteller eines Smart-Home Systems die es Cloud-Free anbieten wollen oder Besitzer eines solchen, die ihres modernisieren und erweitern wollen.
+
+### Immo
+
+Für Immobilien Firmen, Generalunternehmer oder Architekten, die Ihre Immobilien mit einem Smart Home System aufwerten wollen.
+
+
+Interessiert ? Dann bitte ich Sie um [Nachricht](/contact), wie ich Sie am besten telefonisch erreichen kann.  
