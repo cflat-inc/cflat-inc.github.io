@@ -38,4 +38,4 @@ Für Immobilien Firmen, Generalunternehmer oder Architekten, die Ihre Immobilien
 
 
 > Interessiert ? 
-> Dann bitte ich Sie um eine [Nachricht](/contact), wie ich Sie am besten telefonisch erreichen kann.
+  Dann bitte ich Sie um eine [Nachricht](/contact), wie ich Sie am besten telefonisch erreichen kann.
