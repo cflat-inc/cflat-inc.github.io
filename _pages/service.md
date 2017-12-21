@@ -36,7 +36,6 @@ Für Hersteller eines Smart-Home Systems die es Cloud-Free anbieten wollen. Oder
 
 Für Immobilien Firmen, Generalunternehmer oder Architekten, die Ihre Immobilien mit einem Smart-Home System aufwerten wollen.
 
-
 > Interessiert ?
 
 Dann bitte ich Sie um eine [Mitteilung](/contact), wie ich Sie am besten telefonisch erreichen kann.
