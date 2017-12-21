@@ -10,25 +10,29 @@ published: true
 ---
 <p></p>
 
-Smart-Home ist in aller Munde und ein Riesen-Hype, aber niemand weiss genau, wie man es richtig installieren muss. Aus diesem Grund werden verschiedene Services von der Hilfe beim Start, bis zur Entwicklung von Schnittstellen zu diversen Hersteller angeboten:
+## Ich brauch keine Hilfe. Denn die App kann ich auch selber installieren. Sind SIE SICHER !!!
 
-### Advice
+Smart-Home ist in aller Munde und ein Riesen-Hype, aber niemand weiss genau, wie man es richtig installieren muss. Erstens gibt es meistens pro Hersteller eine App, die verschiedenen App können es nicht so ganz miteinander. Oder man muss höllisch aufpassen, das man sowenig wie möglich Daten über sich bekannt gibt. 
+
+Aus diesem Grund werden verschiedene Services von der Hilfe beim Start, bis zur Entwicklung von Schnittstellen zu diversen Hersteller angeboten:
+
+## Advice
 
 Für alle denen ein sicheres Smart-Home wichtig ist und nicht wissen, wie sie starten müssen. 
 
-### Builder
+## Builder
 
 Wir installieren Ihnen ein individuelles, denn Bedürfnissen angepasstes cFlat Smart-Home System. 
 
-### Cloud-Free
+## Cloud-Free
 
 Wenn Sie bereits ein Smart-Home System besitzen und dieses Save und Cloud-Free machen wollen.
 
-### Integration
+## Integration
 
-Für Hersteller eines Smart-Home Systems die es Cloud-Free anbieten wollen oder Besitzer eines solchen, die ihres modernisieren und erweitern wollen.
+Für Hersteller eines Smart-Home Systems die es Cloud-Free anbieten wollen. Oder Besitzer eines solchen, die ihres modernisieren und erweitern wollen.
 
-### Immo
+## Immo
 
 Für Immobilien Firmen, Generalunternehmer oder Architekten, die Ihre Immobilien mit einem Smart Home System aufwerten wollen.
 
