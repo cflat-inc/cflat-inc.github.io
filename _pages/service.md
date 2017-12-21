@@ -32,7 +32,7 @@ Wenn Sie bereits ein Smart-Home System besitzen und dieses Save und Cloud-Free m
 
 Für Hersteller eines Smart-Home Systems die es Cloud-Free anbieten wollen. Oder Besitzer eines solchen, die ihr altes System modernisieren und erweitern wollen.
 
-## Immo
+## Immo Service
 
 Für Immobilien Firmen, Generalunternehmer oder Architekten, die Ihre Immobilien mit einem Smart-Home System aufwerten wollen.
 
