@@ -12,7 +12,7 @@ published: true
 
 ## Ich brauch keine Hilfe. Denn die App kann ich auch selber installieren.<br><br>!!! SIND SIE SICHER !!!<br>
 
-Smart-Home ist in aller Munde und ein Riesen-Hype, aber niemand weiss genau, wie man es richtig installieren muss. Erstens gibt es meistens pro Hersteller eine App, die verschiedenen Apps können es nicht so ganz miteinander. Oder man muss höllisch aufpassen, dass man sowenig wie möglich Daten über sich bekannt gibt.
+Smart-Home ist in aller Munde und ein Riesen-Hype, aber niemand weiss genau, wie man es richtig installieren muss. Erstens gibt es meistens pro Hersteller eine App, die verschiedenen Apps können es nicht so ganz miteinander. Oder man muss höllisch aufpassen, dass man so wenig wie möglich Daten über sich bekannt gibt. Und so weiter ...
 
 Aus diesem Grund werden verschiedene Services von der Hilfe beim Start, bis zur Entwicklung von Schnittstellen zu diversen Hersteller angeboten:
 
