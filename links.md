@@ -11,6 +11,6 @@
 
 ## cFlat-security
 
-[Wie macht man sein Smart Home sicher?](https://www.youtube.com/watch?v=NEHBZBO6dIs)
+- [Wie macht man sein Smart Home sicher?](https://www.youtube.com/watch?v=NEHBZBO6dIs)
 
 ## cFactory
