@@ -9,7 +9,7 @@
 
 ## cFlat-security
 
-- [Wie macht man sein Smart Home sicher?](https://www.youtube.com/watch?v=NEHBZBO6dIs)
+- [heise: Smart Home? Aber sicher!](https://www.heise.de/ct/ausgabe/2017-8-Wie-Sie-schnueffelnde-Geraete-isolieren-und-Ihre-Privatsphaere-schuetzen-3667338.html)
 
 ## cFlat-net
 
