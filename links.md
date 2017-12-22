@@ -4,9 +4,8 @@
 
 ## cFlat-design
 
-[Modernes Haus | Informationen, Planung und Lesetipp](https://www.homeandsmart.de/modernes-haus-informationen-planung-und-lesetipp)
-
-[Was ist bei der Planung eines Smart Home am Wichtigsten](https://www.homeandsmart.de/planung-smart-home-schritte)
+- [Modernes Haus | Informationen, Planung und Lesetipp](https://www.homeandsmart.de/modernes-haus-informationen-planung-und-lesetipp)
+- [Was ist bei der Planung eines Smart Home am Wichtigsten](https://www.homeandsmart.de/planung-smart-home-schritte)
 
 ## cFlat-net
 
