@@ -7,10 +7,10 @@
 - [Modernes Haus | Informationen, Planung und Lesetipp](https://www.homeandsmart.de/modernes-haus-informationen-planung-und-lesetipp)
 - [Was ist bei der Planung eines Smart Home am Wichtigsten](https://www.homeandsmart.de/planung-smart-home-schritte)
 
-## cFlat-net
-
 ## cFlat-security
 
 - [Wie macht man sein Smart Home sicher?](https://www.youtube.com/watch?v=NEHBZBO6dIs)
+
+## cFlat-net
 
 ## cFactory
