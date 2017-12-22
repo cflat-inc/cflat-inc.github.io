@@ -12,6 +12,6 @@
 - [heise: Smart Home? Aber sicher!](https://www.heise.de/ct/ausgabe/2017-8-Wie-Sie-schnueffelnde-Geraete-isolieren-und-Ihre-Privatsphaere-schuetzen-3667338.html)
 
 ## cFlat-net
--[PCtipp: So riegeln Sie Ihr Smart Home ab](http://www.pctipp.ch/news/hardware/artikel/so-riegeln-sie-ihr-smart-home-ab-88249/)
+- [PCtipp: So riegeln Sie Ihr Smart Home ab](http://www.pctipp.ch/news/hardware/artikel/so-riegeln-sie-ihr-smart-home-ab-88249/)
 
 ## cFactory
