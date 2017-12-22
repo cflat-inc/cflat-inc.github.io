@@ -10,6 +10,7 @@
 ## cFlat-security
 
 - [heise: Smart Home? Aber sicher!](https://www.heise.de/ct/ausgabe/2017-8-Wie-Sie-schnueffelnde-Geraete-isolieren-und-Ihre-Privatsphaere-schuetzen-3667338.html)
+- [PCtipp: Weg vom Internet der (unsicheren) Dinge](http://www.pctipp.ch/news/hardware/artikel/weg-vom-internet-der-unsicheren-dinge-87430/)
 
 ## cFlat-net
 - [PCtipp: So riegeln Sie Ihr Smart Home ab](http://www.pctipp.ch/news/hardware/artikel/so-riegeln-sie-ihr-smart-home-ab-88249/)
