@@ -1,5 +1,5 @@
-# cFla-inc.org 
+# cFlat-inc.org 
 
 ## The way to build a proper smart home
 
-Copyright 2017,2018 Chris Gross [cFla-inc]
+Copyright 2017,2018 Chris Gross [cFlat-inc]
