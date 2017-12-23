@@ -17,8 +17,8 @@ header:
 100% Schutz gibt es nicht !! ABER (da bin ich sicher) mit ein wenig Hirn-Schmalz und leider auch Aufwand, kann man aus diesem löchrigen Schuppen, ein einigermassen sicheres „Castel“ machen. Denn niemand hat Interesse, dass der Tagesablauf an die Hersteller gesendet oder die letzten Party-/Ferien-Photos im Netz verteilt werden.
 
 > Weiterführende Artikel:
-- [tagesspiegel: Hacker im eigenen Haus](http://digitalpresent.tagesspiegel.de/hacker-im-eigenen-haus)
 - [bsifb: Smart-Home](https://www.bsi-fuer-buerger.de/BSIFB/DE/DigitaleGesellschaft/IoT/SmartHome/SmartHome_node.html)
+- [tagesspiegel: Hacker im eigenen Haus](http://digitalpresent.tagesspiegel.de/hacker-im-eigenen-haus)
 
 ## Independent
 
