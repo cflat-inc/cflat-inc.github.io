@@ -23,5 +23,7 @@
 ### Unifi
 
 - [Configure micro-segmentation for IoT devices](https://robpickering.com/ubiquiti-configure-micro-segmentation-for-iot-devices/)
+- [Private Technology and Features: Unifi](https://privatetechnology.blogspot.ch/search?q=unifi)
+
 
 ## cFactory
