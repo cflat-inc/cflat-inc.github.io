@@ -30,7 +30,7 @@ Wenn Sie bereits ein Smart-Home System besitzen und dieses Save und Cloud-Free m
 
 ## Integration Service
 
-Für Hersteller eines Smart-Home Systems die es Cloud-Free anbieten wollen. Oder Besitzer eines solchen, die ihr altes System modernisieren und erweitern wollen.
+Für Hersteller eines Smart-Home Systems, die dieses Cloud-Free anbieten wollen, oder Besitzer eines solchen, die ihr altes System modernisieren und erweitern wollen.
 
 ## Immo Service
 
