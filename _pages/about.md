@@ -28,7 +28,7 @@ Ist eine Integrationsplattform zur vereinfachten Einbindung verschiedener Smart-
 
 ## Wie alles begann
 
-Ich begann meine lange Reise in der Software Entwicklung als Assembler Programmierer auf IBM System/370 bei einem führenden FinTech Unternehmen in der Schweiz. Dort entwickelte ich hauptsächlich RealTime Software für die Verarbeitung von Börsen-Informationen für Kunden aus aller Welt. Nebenbei schrieb ich auch Software, auf den damaligen neuen und innovativen PersonalComputer für Kollege und Bekannte.
+Ich begann meine lange Reise in der Software Entwicklung als Assembler Programmierer auf IBM System/370 bei einem führenden FinTech Unternehmen in der Schweiz. Dort entwickelte ich hauptsächlich RealTime Software für die Verarbeitung von Börsen-Informationen für Kunden aus aller Welt. Nebenbei schrieb ich auch Software, auf den damaligen neuen und innovativen PersonalComputer  von IBM für Kollege und Bekannte.
 
 Als ein langjähriger Freund und Mentor, nach einem USA Aufenthalt, mich mit einem Vorläufer des heutigen Internets (CompuServe) bekannt gemachte hatte, war es um mich geschehen. Ich war fasziniert von den Aussichten, dass jeder Punkt in der damaligen grossen/kleinen Welt immer erreichbar ist und deren Möglichkeiten sich daraus ergeben. 
 
