@@ -10,14 +10,14 @@ published: true
 ---
 <p></p>
 
-## The Bad - "as it is"
+## The Bad - "Die Dödel-Lösung"
 
 ![homeNetwork-bad.svg!!](/assets/images/homeNetwork-bad.svg){: .align-center style="width: 300px"}
 
-## The Ugly
+## The Ugly - "Trau Dir nur selber"
 
 ![homeNetwork-ugly.svg!!](/assets/images/homeNetwork-ugly.svg){: .align-center style="width: 300px"}
 
-## The Good
+## The Good - "That's the way"
 
 ![homeNetwork-good.svg!!](/assets/images/homeNetwork-good.svg){: .align-center style="width: 300px"}
