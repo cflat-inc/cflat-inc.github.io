@@ -1,3 +1,6 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+layout: splash
+permalink: /cflat-net/
+header:
+  overlay_image: /assets/images/hd-cFlat.jpg
+  overlay_filter: 0.5
+  caption: 'Photo credit: [**pixabay**](https://pixabay.com)'
