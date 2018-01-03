@@ -12,6 +12,6 @@ published: true
 
 ## Test
 
-![homeNetwork-good.svg](/_data/cflat-net/homeNetwork-good.svg){: .align-center}
+![homeNetwork-good.svg!!](/&lowbar;data/cflat-net/homeNetwork-good.svg){: .align-center}
 
 (coming soon)
