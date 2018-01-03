@@ -32,8 +32,9 @@ Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie no
 
 Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus. 
 
-Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus. 
+Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus.
 
+Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus. 
 
 ### Aufbau
 
@@ -47,6 +48,8 @@ Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie no
 Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus.
 
 Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus.
+
+Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus. 
 
 ### Aufbau
 
