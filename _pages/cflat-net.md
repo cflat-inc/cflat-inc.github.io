@@ -10,7 +10,7 @@ published: true
 ---
 <p></p>
 
-## Test
+## The Good
 
 ![homeNetwork-good.svg!!](/assets/images/homeNetwork-good.svg){: .align-center}
 
