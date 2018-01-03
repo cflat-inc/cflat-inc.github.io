@@ -10,4 +10,8 @@ published: true
 ---
 <p></p>
 
+## Test
+
+![homeNetwork-good.svg](/assets/images/homeNetwork-good.svg){: .align-center style="width: 300px"}
+
 (coming soon)
