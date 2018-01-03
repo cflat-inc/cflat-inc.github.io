@@ -17,7 +17,7 @@ published: true
 
 Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem Home-Netzwerk Layout aus. Dies ist der Ansatz, den die Internet Service Provider und Hersteller von Smart Home Produkte, vertreten: „Kaufen, App installieren und einschalten“, denn fast jeder „Dödel“ ist fähig, irgendwie die Dinger zum laufen zu bringen. Aber die Sicherheitsrisiken verschweigen sie geflissentlich. Nicht nur das der Provider auf all Ihre Daten und Bewegungen zugriff hat. Die Smart Home Produkte entwickeln plötzlich ein nicht gewolltes Eigenleben und versenden die persönlichen Daten ins ganze Internet oder sie werden ganz profan für Hacker-Angriffe auf einen fremden Server missbraucht, etc. etc. Ganz abgesehen, weiss man nicht genau, was Heute alles mit einer Richterlichen Verfügung möglich ist. 
 
-Also Finger weg und neu machen...
+Also Finger weg und/oder neu machen...
 
 ### Aufbau
 
