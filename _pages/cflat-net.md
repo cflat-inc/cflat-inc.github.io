@@ -24,7 +24,10 @@ Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie no
 ![homeNetwork-ugly.svg!!](/assets/images/homeNetwork-ugly.svg){: .align-right style="width: 300px"}
 **"Trau Dir nur selber"**
 
+Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus.
 Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus. 
+Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus. 
+
 
 ### Aufbau
 
