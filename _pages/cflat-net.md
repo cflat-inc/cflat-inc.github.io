@@ -40,7 +40,9 @@ Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie no
 ![homeNetwork-good.svg!!](/assets/images/homeNetwork-good.svg){: .align-right style="width: 300px"}
 **"That's the way"**
 
-(coming soon)
+Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus.
+Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus. 
+Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus.
 
 ### Aufbau
 
