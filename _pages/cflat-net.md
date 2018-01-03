@@ -17,10 +17,12 @@ published: true
 
 Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus. Dies ist der Ansatz, den die Internet Service Provider und Hersteller von Smart Home Produkte, vertreten: „Kaufen, App installieren und einschalten“, denn fast jeder „Dödel“ ist fähig, irgendwie die Dinger zum laufen zu bringen. Aber die Sicherheitsrisiken verschweigen sie geflissentlich. Nicht nur das der Provider auf all Ihre Daten und Bewegungen zugriff hat, die Smart Home Produkte entwickeln plötzlich ein nicht gewolltes Eigenleben und versenden die persönlichen Daten ins ganze Internet oder sie werden für Hacker-Angriffe auf einen fremden Server missbraucht, etc. etc. Ganz abgesehen, weiss man nicht genau, was Heute alles mit einer Richterlichen Verfügung möglich ist.  Also Finger weg und neu machen …..
 
-## The Ugly - "Trau Dir nur selber"
+## The Ugly
 
-![homeNetwork-ugly.svg!!](/assets/images/homeNetwork-ugly.svg){: .align-center style="width: 300px"}
+![homeNetwork-ugly.svg!!](/assets/images/homeNetwork-ugly.svg){: .align-left style="width: 300px"}
+**"Trau Dir nur selber"**
 
-## The Good - "That's the way"
+## The Good
 
-![homeNetwork-good.svg!!](/assets/images/homeNetwork-good.svg){: .align-center style="width: 300px"}
+![homeNetwork-good.svg!!](/assets/images/homeNetwork-good.svg){: .align-left style="width: 300px"}
+**"That's the way"**
