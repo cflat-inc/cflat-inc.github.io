@@ -34,4 +34,4 @@ Es kommt niemanden in den Sinn ein Auto zu kaufen, das nur mit Benzin einer best
 
 Das wichtigste, das unverzichtbarste und heiligste, ist die Akzeptanz des Partners, zu dem WAS man macht, auch bekannt als den [WAF-Faktor](https://de.wikipedia.org/wiki/Woman_acceptance_factor), den Woman Acceptance Factor oder Woman Approval Factor (WAF). Ohne den geht nix und man ist vom Anfang an, zum scheitern verurteilt.
 
-(Es kann sich sicher jeder vorstellen, was damit gemeint ist :grin:)
+Es kann sich sicher jeder vorstellen, was damit gemeint ist :grin: !!
