@@ -10,7 +10,7 @@ published: true
 ---
 <p></p>
 
-## The Bad
+## The Bad - "as it is"
 
 ![homeNetwork-bad.svg!!](/assets/images/homeNetwork-bad.svg){: .align-center style="width: 300px"}
 
