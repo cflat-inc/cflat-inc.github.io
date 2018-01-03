@@ -54,4 +54,4 @@ Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie no
 
 **Anmerkung**
 
-Während der Recherche zu diesem Thema, bin ich unter anderem auf einen Heise-Artikel [Smart Home? Aber sicher!](https://www.heise.de/ct/ausgabe/2017-8-Wie-Sie-schnueffelnde-Geraete-isolieren-und-Ihre-Privatsphaere-schuetzen-3667338.html) gestossen, der sich genau mit den Themen Home Netzwerk und Security beschäftigt. Ich kann in diesen nur empfehlen (Paid-Content). Denn in der Artikel-Serie wird gut aufgezeigt, was passiert, wenn man nicht Aufpasst und gewisse Vorkehrungen nicht trifft. 
+Während der Recherche zu diesem Thema, bin ich unter anderem auf einen Heise-Artikel [Smart Home? Aber sicher!](https://www.heise.de/ct/ausgabe/2017-8-Wie-Sie-schnueffelnde-Geraete-isolieren-und-Ihre-Privatsphaere-schuetzen-3667338.html) gestossen, der sich genau mit den Themen Home Netzwerk und Security beschäftigt. Ich kann diesen nur empfehlen, leider Paid-Content. Denn in der Artikel-Serie wird gut aufgezeigt, was passiert, wenn man nicht Aufpasst und gewisse Vorkehrungen nicht trifft. 
