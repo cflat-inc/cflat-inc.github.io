@@ -10,8 +10,14 @@ published: true
 ---
 <p></p>
 
+## The Bad
+
+![homeNetwork-bad.svg!!](/assets/images/homeNetwork-bad.svg){: .align-center style="width: 300px"}
+
+## The Ugly
+
+![homeNetwork-ugly.svg!!](/assets/images/homeNetwork-ugly.svg){: .align-center style="width: 300px"}
+
 ## The Good
 
-![homeNetwork-good.svg!!](/assets/images/homeNetwork-good.svg){: .align-center}
-
-(coming soon)
+![homeNetwork-good.svg!!](/assets/images/homeNetwork-good.svg){: .align-center style="width: 300px"}
