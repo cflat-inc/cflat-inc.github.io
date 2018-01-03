@@ -45,7 +45,7 @@ published: true
 
 Diese „Gesetze“, sind meiner Meinung nach, die [drei] wichtigsten Punkte, die ein Smart-Home System im minimum erfüllen muss.
 
-{% include feature_row %} {:style="width: 200px"}
+{% include feature_row %} {:style="width: 80%"}
 
 [More info](/law){: .btn .btn--inverse .btn--large .align-center}
 
