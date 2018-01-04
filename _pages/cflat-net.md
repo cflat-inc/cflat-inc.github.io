@@ -29,7 +29,7 @@ Also Finger weg und neu machen...
 **"Trau Dir nur selber"**
 
 Dieser Ansatz ist eine „Weder Fisch noch Vogel“ Lösung. Mit der Integration eines zusätzlichen Switches inkl. Firewall (Ich verwendete eine Fritzbox 4040) entsteht eine Trusted-Zone, in die der Provider keinen Zugriff mehr hat. Womit das ISP-Problem gelöst ist.<br>
-Das Problem mit dem ungewollten Eigenleben ist leider weniger elegant, wenn man das Gast-Netz als IoT-Subnetz definiert, hat man das Problem, das IoT-Devices die UDP-Broadcast (wie Bonjour etc) zum auffinden benutzen, vom LAN nicht sichtbar sind. Gemäss Aussagen im Netz, müsste es mit einer (my)Router Kaskade (Router hinter Router) funktionieren. Ich habe diese Konfiguration mit einem geliehen Router (Fritzbox 404) nicht zum laufen gebracht und danach die Versuche frustriert abgebrochen.
+Das Problem mit dem ungewollten Eigenleben ist leider weniger elegant. Wenn man das Gast-Netz zum IoT-Subnetz erklärt, hat man das Problem, das IoT-Devices die UDP-Broadcast (wie Bonjour etc) zum auffinden benutzen, vom LAN nicht sichtbar sind. Gemäss Aussagen im Netz, müsste es mit einer (My)Router Kaskade (Router hinter Router) funktionieren. Ich habe diese Konfiguration mit einem geliehenen Router (Fritzbox 404) nicht zum laufen gebracht und danach die Versuche frustriert abgebrochen.
 
 (Falls jemand eine einwandfrei funktionierende Lösung hat, wäre ich für [Tips](/contact) dankbar.)
 
