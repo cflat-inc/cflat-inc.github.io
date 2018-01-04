@@ -41,7 +41,11 @@ Das Problem mit dem ungewollten Eigenleben ist leider weniger elegant. Wenn man 
 Die meiner Meinung nach beste Lösung, setzt auf einem Multi-LAN-Router mit Multi-SSID auf, mit dem verschiedene [VLAN’s](https://en.wikipedia.org/wiki/Virtual_LAN) definiert werden können. Mit Ihnen werden die einzelnen Komponenten im Netzwerk sauber getrennt, wie z.B. die einzelnen IoT-Devices und Smart-Home Systeme zu isolieren und zu kontrollieren.<br>
 Es gibt für Net-Cracks OpenSource Lösungen (z.B. OpenWRT), bei der die Hardwarekosten (Linksys WRT1200AC) ca. 120 Euro betragen. Bis zum Wunschlos-Glücklich Packet (z.B. UniFi) für Netzwerk-Dummies (wie mich), das ca. 400 Euro kostet (dies entspricht etwa dem Preis eines 1/2 iPhone 8 :grin:), aber das Packet ist einfach zu installieren, erweitern und vor allem zu warten.
 
-### Definierte VLAN's
+### Zonen / VLAN's
+
+|Name|Vlan|ip|
+|----|----|---|
+| default | VLAN1 | 192.168.1.0/24 |
 
 ---
 
