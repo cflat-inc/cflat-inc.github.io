@@ -19,7 +19,7 @@ Als ich mir Gedanken, bezüglich eines vernünftigen und sicheren Home-Netzwerk 
 
 Ich nenne mal eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem Home-Netzwerk Layout aus. Dies ist der Ansatz, den die Internet Service Provider und Hersteller von Smart Home Produkte, vertreten: „Kaufen, App installieren und einschalten“, denn fast jeder „Dödel“ ist fähig, irgendwie die Dinger zum laufen zu bringen. Aber die Sicherheitsrisiken verschweigen sie geflissentlich. Nicht nur, dass der Provider auf all Ihre Daten zugriff hat. Die Smart Home Produkte entwickeln plötzlich ein nicht gewolltes Eigenleben und versenden die persönlichen Daten ins ganze Internet oder sie werden ganz profan für Hacker-Angriffe auf einen fremden Server missbraucht, etc. etc.
 
-Ganz abgesehen davon, weiss man nicht genau, was heutzutage alles mit einer Richterlichen Verfügung möglich ist. 
+Ganz abgesehen davon, weiss man nicht genau, was heutzutage alles mit einer richterlichen Verfügung möglich ist. 
 
 Also Finger weg und neu machen...
 
@@ -29,11 +29,9 @@ Also Finger weg und neu machen...
 **"Trau Dir nur selber"**
 
 Dieser Ansatz ist eine „Weder Fisch noch Vogel“ Lösung. Mit der Integration eines zusätzlichen Switches inkl. Firewall (Ich verwendete eine Fritzbox 4040) entsteht eine Trusted-Zone, in die der Provider keinen Zugriff mehr hat. Womit das ISP-Problem gelöst ist.<br>
-Das Problem mit dem ungewollten Eigenleben ist leider weniger elegant, wenn man das Gast-Netz als IoT-Subnetz definiert hat man das Problem, das Dienste die UDP-Broadcast (wie Bonjour etc) benutzen, vom Lan ins IoT-Netz nicht angesprochen werden können. Gemäss Aussagen im Netz, müsste es mit einer Router Kaskade (Router hinter Router) funktionieren. Ich habe diese Konfiguration mit einem geliehen Router (Fritzbox 404) nicht zum laufen gebracht und danach die Versuche frustriert abgebrochen.
+Das Problem mit dem ungewollten Eigenleben ist leider weniger elegant, wenn man das Gast-Netz als IoT-Subnetz definiert, hat man das Problem, das IoT-Devices die UDP-Broadcast (wie Bonjour etc) zum auffinden benutzen, vom LAN nicht sichtbar sind. Gemäss Aussagen im Netz, müsste es mit einer (my)Router Kaskade (Router hinter Router) funktionieren. Ich habe diese Konfiguration mit einem geliehen Router (Fritzbox 404) nicht zum laufen gebracht und danach die Versuche frustriert abgebrochen.
 
-(Falls jemand eine einwandfrei funktionierende Lösung hat, wäre ich für [Tips](/contact) dankbar. Damit ich diesen, im Dokument ergänzen könnte)
-
-### Aufbau
+(Falls jemand eine einwandfrei funktionierende Lösung hat, wäre ich für [Tips](/contact) dankbar. Damit ich die Infos, im Dokument ergänzen könnte)
 
 ## The Good
 
@@ -52,5 +50,6 @@ Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie no
 
 ---
 
-**Anmerkung:**<br>
+**Anmerkung:**
+
 Während der Recherche zu diesem Thema, bin ich unter anderem auf einen Heise-Artikel [Smart Home? Aber sicher!](https://www.heise.de/ct/ausgabe/2017-8-Wie-Sie-schnueffelnde-Geraete-isolieren-und-Ihre-Privatsphaere-schuetzen-3667338.html) gestossen, der sich genau mit den Themen Home Netzwerk und Security beschäftigt. Ich kann diesen nur empfehlen, leider Paid-Content. Denn in der Artikel-Serie wird gut aufgezeigt, was passiert, wenn man nicht Aufpasst und gewisse Vorkehrungen nicht trifft. 
