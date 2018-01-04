@@ -29,7 +29,7 @@ Ganz abgesehen davon, weiss man nicht genau, was heutzutage alles mit einer rich
 **"Trau Dir nur selber"**
 
 Dieser Ansatz ist eine „Weder Fisch noch Vogel“ Lösung. Mit der Integration eines zusätzlichen Switches inkl. Firewall (Ich verwendete eine Fritzbox 4040) entsteht eine Trusted-Zone, in die der Provider keinen Zugriff mehr hat. Womit das ISP-Problem gelöst ist.<br>
-Das Problem mit dem ungewollten Eigenleben ist leider weniger elegant. Wenn man das Gast-Netz zum IoT-Subnetz erklärt, hat man das Problem, das IoT-Devices die UDP-Broadcast (wie Bonjour etc) zum auffinden benutzen, vom LAN nicht sichtbar sind. Gemäss Aussagen im Netz, müsste es mit einer (My)Router Kaskade (Router hinter Router) funktionieren. Ich habe diese Konfiguration mit einem geliehenen Router (Fritzbox 4020) nicht zum laufen gebracht und danach die Versuche frustriert abgebrochen.
+Das Problem mit dem ungewollten Eigenleben ist leider weniger elegant. Wenn man das Gast-Netz zum IoT-Subnetz erklärt, hat man das Problem, das IoT-Devices die Multicast-DNS (Zeroconf, Bonjour) zum auffinden benutzen nicht im LAN sichtbar sind. Gemäss Aussagen im Netz, müsste es mit einer (My)Router Kaskade (Router hinter Router) funktionieren. Ich habe diese Konfiguration mit einem geliehenen Router (Fritzbox 4020) nicht zum laufen gebracht und danach die Versuche frustriert abgebrochen.
 
 // Falls jemand eine einwandfrei funktionierende Lösung hat, wäre ich für [Tips](/contact) dankbar //
 
@@ -38,15 +38,7 @@ Das Problem mit dem ungewollten Eigenleben ist leider weniger elegant. Wenn man 
 ![homeNetwork-good.svg!!](/assets/images/homeNetwork-good.svg){: .align-right style="width: 300px"}
 **"That's the way"**
 
-Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus.
-
-Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus.
-
-Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus.
-
-Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus. 
-
-### Aufbau
+Die flexibelste Lösung, setzt auf einem Multi-LAN-Router mit Multi-SSID auf, mit der verschiedene [VLAN’s](https://de.wikipedia.org/wiki/Virtual_Local_Area_Network) definiert werden können. Mit Ihnen werden die einzelnen Komponenten im Netzwerk sauber getrennt, um z.B. die einzelnen IoT-Devices und Smart-Home Systeme zu isolieren und kontrollieren. Es gibt für Net-Cracks OpenSource Lösungen (z.B. OpenWRT), bei der die Hardwarekosten (Linksys WRT1200AC) ca. 120 Euro beträgt. Bis zu Wunschlos-Glücklich Packet (z.B. UniFi) für Netzwerk-Dummies (wie mich), die ca. 420 Euro kostet (dies entspricht etwa den Preis eines 1/2 iPhone 8), aber sie sind einfach zu installieren, warten und zu erweitern. 
 
 ---
 
