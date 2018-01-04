@@ -17,7 +17,9 @@ Als ich mir Gedanken, bezüglich eines vernünftigen und sicheren Home-Netzwerk 
 ![homeNetwork-bad.svg!!](/assets/images/homeNetwork-bad.svg){: .align-right style="width: 300px"}
 **"Die Dödel-Lösung"**
 
-Ich nenne mal eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem Home-Netzwerk Layout aus. Dies ist der Ansatz, den die Internet Service Provider und Hersteller von Smart Home Produkte, vertreten: „Kaufen, App installieren und einschalten“, denn fast jeder „Dödel“ ist fähig, irgendwie die Dinger zum laufen zu bringen. Aber die Sicherheitsrisiken verschweigen sie geflissentlich. Nicht nur, dass der Provider auf all Ihre Daten zugriff hat. Die Smart Home Produkte entwickeln plötzlich ein nicht gewolltes Eigenleben und versenden die persönlichen Daten ins ganze Internet oder sie werden ganz profan für Hacker-Angriffe auf einen fremden Server missbraucht, etc. etc.<br>Ganz abgesehen, weiss man nicht genau, was Heute alles mit einer Richterlichen Verfügung möglich ist. 
+Ich nenne mal eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem Home-Netzwerk Layout aus. Dies ist der Ansatz, den die Internet Service Provider und Hersteller von Smart Home Produkte, vertreten: „Kaufen, App installieren und einschalten“, denn fast jeder „Dödel“ ist fähig, irgendwie die Dinger zum laufen zu bringen. Aber die Sicherheitsrisiken verschweigen sie geflissentlich. Nicht nur, dass der Provider auf all Ihre Daten zugriff hat. Die Smart Home Produkte entwickeln plötzlich ein nicht gewolltes Eigenleben und versenden die persönlichen Daten ins ganze Internet oder sie werden ganz profan für Hacker-Angriffe auf einen fremden Server missbraucht, etc. etc.
+
+Ganz abgesehen davon, weiss man nicht genau, was heutzutage alles mit einer Richterlichen Verfügung möglich ist. 
 
 Also Finger weg und neu machen...
 
@@ -26,13 +28,10 @@ Also Finger weg und neu machen...
 ![homeNetwork-ugly.svg!!](/assets/images/homeNetwork-ugly.svg){: .align-right style="width: 300px"}
 **"Trau Dir nur selber"**
 
-Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus.
+Dieser Ansatz ist eine „Weder Fisch noch Vogel“ Lösung. Mit der Integration eines zusätzlichen Switches inkl. Firewall (Ich verwendete eine Fritzbox 4040) entsteht eine Trusted-Zone, in die der Provider keinen Zugriff mehr hat. Womit das ISP-Problem gelöst ist.<br>
+Das Problem mit dem ungewollten Eigenleben ist leider weniger elegant, wenn man das Gast-Netz als IoT-Subnetz definiert hat man das Problem, das Dienste die UDP-Broadcast (wie Bonjour etc) benutzen, vom Lan ins IoT-Netz nicht angesprochen werden können. Gemäss Aussagen im Netz, müsste es mit einer Router Kaskade (Router hinter Router) funktionieren. Ich habe diese Konfiguration mit einem geliehen Router (Fritzbox 404) nicht zum laufen gebracht und danach die Versuche frustriert abgebrochen.
 
-Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus. 
-
-Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus.
-
-Ich nenne Einmahl eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem „The Bad“ Home-Netzwerk aus. 
+(Falls jemand eine einwandfrei funktionierende Lösung hat, wäre ich für [Tips](/contact) dankbar. Damit ich diesen, im Dokument ergänzen könnte)
 
 ### Aufbau
 
