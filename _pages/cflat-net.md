@@ -38,7 +38,7 @@ Das Problem mit dem ungewollten Eigenleben ist leider weniger elegant. Wenn man 
 ![homeNetwork-good.svg!!](/assets/images/homeNetwork-good.svg){: .align-right style="width: 300px"}
 **"That's the way"**
 
-Die meiner Meinung nach beste Lösung, setzt auf einem Multi-LAN-Router mit Multi-SSID auf, mit der verschiedene [VLAN’s](https://de.wikipedia.org/wiki/Virtual_Local_Area_Network) definiert werden können. Mit Ihnen werden die einzelnen Komponenten im Netzwerk sauber getrennt, um z.B. die einzelnen IoT-Devices und Smart-Home Systeme zu isolieren und zu kontrollieren. Es gibt für Net-Cracks OpenSource Lösungen (z.B. OpenWRT), bei der die Hardwarekosten (Linksys WRT1200AC) ca. 120 Euro betragen. Bis zum Wunschlos-Glücklich Packet (z.B. UniFi) für Netzwerk-Dummies (wie mich), das ca. 420 Euro kostet (dies entspricht etwa den Preis eines 1/2 iPhone 8 {:simile:}), aber sie ist einfach zu installieren, warten und zu erweitern.
+Die meiner Meinung nach beste Lösung, setzt auf einem Multi-LAN-Router mit Multi-SSID auf, mit der verschiedene [VLAN’s](https://de.wikipedia.org/wiki/Virtual_Local_Area_Network) definiert werden können. Mit Ihnen werden die einzelnen Komponenten im Netzwerk sauber getrennt, um z.B. die einzelnen IoT-Devices und Smart-Home Systeme zu isolieren und zu kontrollieren. Es gibt für Net-Cracks OpenSource Lösungen (z.B. OpenWRT), bei der die Hardwarekosten (Linksys WRT1200AC) ca. 120 Euro betragen. Bis zum Wunschlos-Glücklich Packet (z.B. UniFi) für Netzwerk-Dummies (wie mich), das ca. 420 Euro kostet (dies entspricht etwa den Preis eines 1/2 iPhone 8 :grin:), aber sie ist einfach zu installieren, warten und zu erweitern.
 
 ### Definierte VLAN's
 
