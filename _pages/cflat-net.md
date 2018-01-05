@@ -17,7 +17,7 @@ Als ich mir Gedanken, bezüglich eines vernünftigen und sicheren Home-Netzwerk 
 ![homeNetwork-bad.svg!!](/assets/images/homeNetwork-bad.svg){: .align-right style="width: 300px"}
 **"Die Dödel-Lösung"**
 
-Ich nenne mal eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem Home-Netzwerk Layout aus. Dies ist der Ansatz, den die Internet Service Provider und Hersteller von Smart Home Produkte, vertreten: „Kaufen, App installieren und einschalten“, denn fast jeder „Dödel“ ist fähig, irgendwie die Dinger zum laufen zu bringen. Aber die Sicherheitsrisiken verschweigen sie geflissentlich. Nicht nur, dass der Provider auf all Ihre Daten zugriff hat. Die Smart Home Produkte entwickeln plötzlich ein nicht gewolltes Eigenleben und versenden die persönlichen Daten ins ganze Internet oder sie werden ganz profan für Hacker-Angriffe auf einen fremden Server missbraucht, etc. etc.
+Ich nenne mal eine Zahl, aber mehr als 95 Prozent (wahrscheinlich ist sie noch höher) der Smart-Home Installationen sehen so wie in diesem Netzwerk Layout aus. Dies ist der Ansatz, den die Internet Service Provider und Hersteller von Smart Home Produkte, vertreten: „Kaufen, App installieren und einschalten“, denn fast jeder „Dödel“ ist fähig, irgendwie die Dinger zum laufen zu bringen. Aber die Sicherheitsrisiken verschweigen sie geflissentlich. Nicht nur, dass der Provider auf alle deine Daten zugriff hat. Die Smart Home Produkte entwickeln plötzlich ein nicht gewolltes Eigenleben und versenden die persönlichen Daten ins ganze Internet oder sie werden ganz profan für Hacker-Angriffe auf einen fremden Server missbraucht, etc. etc.
 
 Ganz abgesehen davon, weiss man nicht genau, was heutzutage alles mit einer richterlichen Verfügung möglich ist. 
 
@@ -40,7 +40,7 @@ Das Problem mit dem ungewollten Eigenleben ist leider weniger elegant. Wenn man 
 
 Die meiner Meinung nach beste Lösung, setzt auf einem Multi-LAN-Router mit Multi-SSID auf, mit dem verschiedene [VLAN’s](https://en.wikipedia.org/wiki/Virtual_LAN) definiert werden können. Mit Ihnen werden die einzelnen Komponenten im Netzwerk sauber getrennt, wie z.B. die einzelnen IoT-Devices und Smart-Home Systeme zu isolieren und zu kontrollieren.
 
-Es gibt für Net-Cracks OpenSource Lösungen (z.B. OpenWRT), bei der die Hardwarekosten (Linksys WRT1200AC) ca. 120 Euro betragen. Bis zum Wunschlos-Glücklich Paket (z.B. UniFi) für Netzwerk-Dummies (wie mich), das ca. 400 Euro kostet (dies entspricht etwa dem Preis eines 1/2 iPhone 8 :grin:), aber das Paket ist einfach zu installieren, erweitern und vor allem zu warten.
+Es gibt für Net-Cracks OpenSource Lösungen (z.B. Tomato, OpenWRT), bei der die Hardwarekosten (Linksys WRT1200AC) ca. 120 Euro betragen. Bis zum Wunschlos-Glücklich Paket (z.B. UniFi) für Netzwerk-Dummies (wie mich), das ca. 400 Euro kostet (dies entspricht etwa dem Preis eines 1/2 iPhone 8 :grin:), aber das Paket ist einfach zu installieren, erweitern und vor allem zu warten.
 
 ### Zonen / VLAN's
 
