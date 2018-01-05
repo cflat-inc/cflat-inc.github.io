@@ -1,5 +1,5 @@
 ---
-title: cFlat Home-Network
+title: cFlat Network
 layout: splash
 permalink: /cflat-net/
 header:
