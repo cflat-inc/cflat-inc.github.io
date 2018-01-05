@@ -51,4 +51,4 @@ Es gibt für Net-Cracks OpenSource Lösungen (z.B. Tomato, OpenWRT), bei der die
 ---
 
 > **Anmerkung:**<br><br>
-Während der Recherche zu diesem Thema, bin ich unter anderem auf einen Heise Artikel-Serie [Smart Home? Aber sicher!](https://www.heise.de/ct/ausgabe/2017-8-Wie-Sie-schnueffelnde-Geraete-isolieren-und-Ihre-Privatsphaere-schuetzen-3667338.html) gestossen, die sich genau mit den Themen Home Netzwerk und Security beschäftigt. Ich kann diese Artikel nur empfehlen (leider Paid-Content), denn darin wird aufgezeigt, was passiert, wenn man nicht Aufpasst und/oder gewisse Vorkehrungen nicht trifft.
+Während der Recherche zu diesem Thema, bin ich unter anderem auf eine Heise Artikel-Serie [Smart Home? Aber sicher!](https://www.heise.de/ct/ausgabe/2017-8-Wie-Sie-schnueffelnde-Geraete-isolieren-und-Ihre-Privatsphaere-schuetzen-3667338.html) gestossen, die sich genau mit den Themen Home Netzwerk und Security beschäftigt. Ich kann diese Artikel nur empfehlen (leider Paid-Content), denn darin wird aufgezeigt, was passiert, wenn man nicht Aufpasst und/oder gewisse Vorkehrungen nicht trifft.
