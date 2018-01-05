@@ -1,5 +1,7 @@
 # Work Link-Samlung
 
+[Emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
 ## cFlat-common
 
 ## cFlat-design
