@@ -43,9 +43,9 @@ Es gibt für Net-Cracks OpenSource Lösungen (z.B. OpenWRT), bei der die Hardwar
 
 ### Zonen / VLAN's
 
- Zonen   | VLAN   | IP             | Notes ||
----------|--------|----------------|:- ||
- default | VLAN1  | 192.168.1.0/24 |   |
+| Zonen   | VLAN   | IP             | Notes |
+| :------ | :------| :------------- | :-    |
+| default | VLAN1  | 192.168.1.0/24 |       |
 
 ---
 
