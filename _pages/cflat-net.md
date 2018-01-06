@@ -10,7 +10,7 @@ published: true
 ---
 <p></p>
 
-Als ich mir Gedanken, bezüglich eines vernünftigen und sicheren Home-Netzwerk Layout machte und auf die unten stehenden Lösungen gekommen bin, ist mir der aus irgend einem Grund der Film [The Good, the Bad and the Ugly](https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly) in den Sinn gekommen. Die Reihenfolge stimmt nicht ganz, aber etwas hat es schon an sich …  
+Als ich mir Gedanken, bezüglich eines vernünftigen und sicheren Home-Netzwerk Layout machte und auf die unten stehenden Lösungen gekommen bin, ist mir aus irgend einem Grund der Film [The Good, the Bad and the Ugly](https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly) in den Sinn gekommen. Die Reihenfolge stimmt nicht ganz, aber etwas hat es schon an sich …  
 
 ## The Bad
 
@@ -44,9 +44,11 @@ Es gibt für Net-Cracks OpenSource Lösungen (z.B. Tomato, OpenWRT), bei der die
 
 ### Zonen / VLAN's
 
-| Zonen     | VLAN   | IP             |       
-| :---      | :---   | :---           | :---  
-| `default` | VLAN1  | 192.168.1.0/24 |       
+| Zonen     | VLAN   | IP              |
+|:---       | :---   | :---            | :---  
+| `default` | VLAN1  | 192.168.1.0/24  |
+| `guest`	| VLAN99 | 192.168.99.0/24 |
+
 
 ---
 
