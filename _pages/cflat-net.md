@@ -49,7 +49,6 @@ Es gibt für Net-Cracks OpenSource Lösungen (z.B. Tomato, OpenWRT), bei der die
 | `default` | VLAN1  | 192.168.1.0/24  |
 | `guest`	| VLAN99 | 192.168.99.0/24 |
 
-
 ---
 
 > **Anmerkung:**<br><br>
