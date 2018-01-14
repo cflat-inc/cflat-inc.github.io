@@ -22,7 +22,7 @@ VIELEN DANK !!
 
 ## Virtual cFactory
 
-Da das Ganze zurzeit noch im Traum-Stadium befindet, baue ich zwischenzeitlich eine virtuelle cFactory, in der ich ein cFlat Smart-Home System aufbaue, bei der die Komponenten getestet, in der "Wohnung" eingebaut und aufeinander abgestimmt sind (Was zum Teil meiner aktuellen Wohnung entspricht).  
+Da sich das Ganze zurzeit noch im Traum-Stadium befindet, baue ich zwischenzeitlich eine virtuelle cFactory, in der ich ein cFlat Smart-Home System aufbaue, bei der die einzelnen Komponenten getestet, in der "Wohnung" eingebaut und aufeinander abgestimmt sind (Was zum Teil meiner aktuellen Wohnung entspricht). 
 
 (coming soon)
 
