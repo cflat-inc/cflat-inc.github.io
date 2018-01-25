@@ -24,11 +24,10 @@
 
 ### Unifi
 
+- [Private Technology and Features](https://privatetechnology.blogspot.ch/)
 - [Endlich keine WLAN-Probleme mehr Dank Ubiquiti/UniFi Access Points](https://www.mielke.de/blog/Endlich-keine-WLAN-Probleme-mehr-Dank-Ubiquiti-UniFi-Access-Points--473/)
 - [Configure micro-segmentation for IoT devices](https://robpickering.com/ubiquiti-configure-micro-segmentation-for-iot-devices/)
 - [Private Technology and Features: Unifi](https://privatetechnology.blogspot.ch/search?q=unifi)
 - [USG VLAN Firewall Rules](https://community.ubnt.com/t5/UniFi-Routing-Switching/USG-VLAN-Firewall-Rules/td-p/1940696)
-- [Private Technology and Features](https://privatetechnology.blogspot.ch/)
-
 
 ## cFactory
