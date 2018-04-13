@@ -12,8 +12,8 @@ intro:
     url: /intro/
     alt: logo-grey.svg
     excerpt: >-
-      cFlat-inc ist als eine Platform gedacht, wie man ein „fast“ optimales
-      Smart-Home System bauen kann oder sollte oder müsste.
+      cFlat-inc ist eine Platform, die aufzeigt, wie man ein optimales
+      Smart-Home System bauen kann, sollte oder müsste. 
     btn_label: Was genau ist cFlat-inc ...
     btn_class: .btn .btn--inverse
 feature_row:
