@@ -22,15 +22,15 @@ Für alle denen ein sicheres Smart-Home wichtig ist und nicht wissen, wie sie st
 
 ## Builder Service
 
-Wir installieren Ihnen ein individuelles, denn Bedürfnissen angepasstes cFlat Smart-Home System.
+Wir installieren Ihnen ein individuelles, denn Bedürfnissen angepasstes Smart-Home System.
 
 ## Cloud-Free Service
 
-Wenn Sie bereits ein Smart-Home System besitzen und dieses Save und Cloud-Free machen wollen.
+Wenn Sie bereits ein Smart-Home System besitzen und dieses sicher und Cloud-Free machen wollen.
 
 ## Integration Service
 
-Für Hersteller eines Smart-Home Systems, die dieses Cloud-Free anbieten wollen, oder Besitzer eines solchen, die ihr altes System modernisieren und erweitern wollen.
+Für Hersteller eines Smart-Home Systems, die dieses Cloud-Free anbieten, oder Besitzer eines solchen, die ihr altes System modernisieren und erweitern wollen.
 
 ## Immo Service
 
