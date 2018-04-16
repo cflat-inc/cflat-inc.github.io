@@ -12,11 +12,11 @@ published: true
 
 ## <center>Ich brauch keine Hilfe. </center><br><center>Denn die App kann ich auch selber installieren.</center><br><center>!!! SIND SIE SICHER !!!</center>
 
-Smart-Home ist in aller Munde und ein Riesen-Hype, aber niemand weiss genau, wie man das System richtig installieren muss. Erstens gibt es meistens pro Hersteller eine App und die verschiedenen Apps können es nicht so ganz miteinander. Oder man muss höllisch aufpassen, dass man so wenig wie möglich Daten über sich bekannt gibt. Und so weiter und so fort ...
+Smart-Home ist in aller Munde und ein Riesen-Hype, aber niemand weiss genau, wie man dieses richtig installieren muss. Erstens gibt es meistens pro Hersteller eine eigene App und die verschiedenen Apps können es nicht so ganz miteinander. Oder man muss zum Beispiel höllisch aufpassen, dass man so wenig wie möglich Daten über sich bekannt gibt. Und so weiter und so fort ...
 
 Aus diesem Grund werden verschiedene Services von der Hilfe beim Start, bis zur Entwicklung von Schnittstellen zu diversen Hersteller angeboten:
 
-## Advice Service
+## Consulting Service
 
 Für alle denen ein sicheres Smart-Home wichtig ist und nicht wissen, wie sie starten müssen. 
 
@@ -30,7 +30,7 @@ Wenn Sie bereits ein Smart-Home System besitzen und dieses sicher und Cloud-Free
 
 ## Integration Service
 
-Für Hersteller eines Smart-Home Systems, die dieses Cloud-Free anbieten, oder Besitzer eines solchen, die ihr altes System modernisieren und erweitern wollen.
+Für Hersteller eines Smart-Home Systems, die dieses Cloud-Free anbieten wollen. Oder Besitzer eines solchen, die beabsichtigen ihr bestehendes System zu modernisieren und zu erweitern.
 
 ## Immo Service
 
