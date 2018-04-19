@@ -34,7 +34,7 @@ feature_row:
     title: Accepted ...
     excerpt: >-
       Ohne einen hohen WAF-Faktor geht gar nichts und man ist zum scheitern
-      Verurteilt.
+      verurteilt.
 published: true
 ---
 <p></p>
