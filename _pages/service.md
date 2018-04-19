@@ -26,7 +26,7 @@ Wir installieren Ihnen ein individuelles, denn Bedürfnissen angepasstes Smart-H
 
 ## Secure Service
 
-Wenn Sie bereits ein Smart-Home System besitzen und dieses sicher und Cloud-Free machen wollen.
+Wenn Sie bereits ein Smart-Home System besitzen und dieses sicher und/oder Cloud-Free machen wollen.
 
 ## Integration Service
 
