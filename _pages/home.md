@@ -12,8 +12,8 @@ intro:
     url: /intro/
     alt: logo-grey.svg
     excerpt: >-
-      cFlat-inc ist eine Platform, die aufzeigt, wie man ein optimales
-      Smart-Home System bauen kann, sollte oder müsste. 
+      cFlat-inc ist als eine Platform gedacht, die aufzeigen soll, wie man ein
+      Smart-Home System aufbaut. 
     btn_label: Mehr erfahren ...
     btn_class: .btn .btn--inverse
 feature_row:
@@ -21,7 +21,7 @@ feature_row:
     alt: security.svg
     title: Secure ...
     excerpt: >-
-      „My home is my castel“ <br> Es geht niemanden etwas an, was in meinen vier
+      „My home is my castel“. Es geht niemanden etwas an, was in meinen vier
       Wänden passiert.
   - image_path: /assets/images/lightbulb-on-outline.svg
     alt: lightbulb-on-outline.svg
