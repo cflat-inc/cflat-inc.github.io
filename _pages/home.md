@@ -33,7 +33,7 @@ feature_row:
     alt: human-male-female.svg
     title: Accepted ...
     excerpt: >-
-      Ohne einen hohen WAF-Faktor geht gar nichts und man ist unweigerlich zum
+      Ohne einen hohen WAF-Faktor geht gar nichts, oder man ist unweigerlich zum
       scheitern verurteilt.
 published: true
 ---
