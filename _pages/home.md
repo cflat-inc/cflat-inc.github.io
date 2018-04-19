@@ -12,7 +12,7 @@ intro:
     url: /intro/
     alt: logo-grey.svg
     excerpt: >-
-      <br> cFlat-inc ist eine Platform, <br> die aufzeigt, <br> wie man ein
+      <br> cFlat-inc ist eine Platform, die aufzeigt, <br> wie man ein
       zeitgemässes Smart-Home System aufbaut. 
     btn_label: Mehr erfahren ...
     btn_class: .btn .btn--inverse
@@ -32,7 +32,9 @@ feature_row:
   - image_path: /assets/images/human-male-female.svg
     alt: human-male-female.svg
     title: Accepted ...
-    excerpt: Ohne einen hohen WAF-Faktor geht gar nix.
+    excerpt: >-
+      Ohne einen hohen WAF-Faktor geht gar nichts und man ist zum scheiter
+      Verurteilt.
 published: true
 ---
 <p></p>
