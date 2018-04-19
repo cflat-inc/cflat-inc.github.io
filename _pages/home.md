@@ -45,7 +45,7 @@ published: true
 
 ## cFlat's-Law
 
-Diese „Gesetze“ sind, meiner Meinung nach, die [drei] wichtigsten Punkte, die ein Smart-Home System im minimum erfüllen muss.
+Diese „Gesetze“ sind die drei wichtigsten Punkte, die ein Smart-Home System im minimum erfüllen muss.
 
 {% include feature_row %}
 
