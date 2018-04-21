@@ -69,6 +69,6 @@ Schritte:
 
 ## Zum Schluss
 
-Es versteht sich von selbst, dass dieses keine statische Geschichte ist, sondern das sie immer den neusten Erkenntnisse angepasst wird. 
+Es versteht sich von selbst, dass das Ganze keine statische Geschichte ist, sondern das sie immer den neusten Erkenntnisse angepasst wird. 
 
-**Also wieder vorbeischauen und informiert bleiben…** 
+<center>**Also wieder vorbeischauen und informiert bleiben…**</center>
