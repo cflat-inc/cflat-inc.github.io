@@ -53,4 +53,17 @@ Diese „Gesetze“ sind die drei wichtigsten Punkte, die ein Smart-Home System 
 
 ## cFlat
 
-(coming soon)
+Was ist cFlat
+
+cFlat ist eine Art Blueprint (Blaupause), die Anregungen und Tips zur Installation und Konfiguration eines Smart Home geben soll.  Sie soll Schritt für Schritt aufzeigen wie ein System gebaut wird, wo die Probleme sind und welche Lösungen dafür in Frage kommen.
+
+[Blueprint]
+
+Das wichtigste ist, dass man/frau nicht einfach in den nächsten (Online-)Shop geht und einfach etwas, dass gut aussieht, kauft. Also lesen Sie in Ruhe die einzelnen Schritte durch und machen Sie sich danach Gedanken was und wo sie etwas kaufen. Denn dann sparen sie viel Geld und Nerven. 
+
+Schritte:
+1. Planung
+2. Netzwerk 
+3. Master Hub/Gateway
+
+Es versteht sich von selbst, dass dieses keine statische Geschichte ist, sondern das sie immer den neusten Erkenntnisse angepasst wird. Also wieder vorbeischauen und informiert bleiben… 
