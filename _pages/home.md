@@ -59,7 +59,7 @@ cFlat ist eine Art Blueprint (Blaupause), die Anregungen und Tips zur Installati
 
 [Blueprint]
 
-Das wichtigste ist, dass man/frau nicht einfach in den nächsten (Online-)Shop geht und einfach etwas, dass gut aussieht, kauft. Also lesen Sie in Ruhe die einzelnen Schritte durch und machen Sie sich danach Gedanken was und wo sie etwas kaufen. Denn dann sparen sie viel Geld und Nerven. 
+Das wichtigste ist, dass man/frau nicht einfach in den nächsten (Online-)Shop rennt und einfach etwas, dass gut aussieht, kauft. Also lesen Sie in Ruhe die einzelnen Schritte durch und machen Sie sich danach Gedanken was und wo sie etwas kaufen. Denn dann sparen sie viel Geld und Nerven. 
 
 Schritte:
 1. Planung
