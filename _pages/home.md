@@ -66,4 +66,7 @@ Schritte:
 2. Netzwerk 
 3. Master Hub/Gateway
 
-Es versteht sich von selbst, dass dieses keine statische Geschichte ist, sondern das sie immer den neusten Erkenntnisse angepasst wird. Also wieder vorbeischauen und informiert bleiben… 
+
+## Zum Schluss
+
+**Es versteht sich von selbst, dass dieses keine statische Geschichte ist, sondern das sie immer den neusten Erkenntnisse angepasst wird. Also wieder vorbeischauen und informiert bleiben…** 
