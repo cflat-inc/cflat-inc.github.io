@@ -9,7 +9,7 @@ header:
 title: Intro
 ---
 
-## Was genau ist cFlat-inc
+## Was genau ist cFlat-inc ?
 
 ![logo_grey.svg](/assets/images/logo-grey.svg){: style="width: 450px; height: 120px"}
 
