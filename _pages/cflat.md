@@ -11,3 +11,8 @@ published: true
 <p></p>
 
 (coming soon)
+
+Schritte:
+1. Planung
+2. Netzwerk 
+3. Master Hub/Gateway
