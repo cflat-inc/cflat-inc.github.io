@@ -61,7 +61,7 @@ cFlat ist eine Art Blueprint (Blaupause), die Anregungen und Tipps zur Installat
 
 Das wichtigste ist, dass man/frau nicht einfach in den nächsten (Online-)Shop rennt und einfach etwas, dass gut aussieht, kauft. Also lesen Sie in Ruhe die einzelnen Schritte durch und machen Sie sich danach Gedanken was und wo sie etwas kaufen. Denn dann sparen sie viel Geld und Nerven. 
 
-[cFlat](/cFlat){: .btn .btn--inverse .btn--large .align-center}
+[cFlat](/cflat){: .btn .btn--inverse .btn--large .align-center}
 
 ## Zum Schluss
 
