@@ -67,4 +67,4 @@ Das wichtigste ist, dass man/frau nicht einfach in den nächsten (Online-)Shop r
 
 Es versteht sich von selbst, dass das Ganze keine statische Geschichte ist, sondern das sie immer den neusten Erkenntnisse angepasst wird. 
 
-***<center>Also wieder vorbeischauen und informiert bleiben…</center>***
+***<center>Also wieder vorbeischauen und informiert bleiben …</center>***
