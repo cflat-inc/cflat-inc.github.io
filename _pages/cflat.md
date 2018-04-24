@@ -15,4 +15,4 @@ published: true
 Schritte:
 1. Planung
 2. Netzwerk 
-3. Master Hub/Gateway
+3. Master Hub
