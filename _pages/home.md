@@ -55,7 +55,7 @@ Diese „Gesetze“ sind die drei wichtigsten Punkte, die ein Smart-Home System 
 
 ### Was ist cFlat ?
 
-cFlat ist eine Art Blueprint (Blaupause), die Anregungen und Tipps zur Installation und Konfiguration eines Smart Home geben soll. Sie soll aufzeigen wie ein System gebaut wird, wo die Probleme sind und welche Lösungen dafür in Frage kommen.
+cFlat ist eine Art Blueprint (Blaupause), die Anregungen und Tipps zur Installation und Konfiguration eines Smart-Home geben soll. Sie soll aufzeigen wie ein System gebaut wird, wo die Probleme sind und welche Lösungen dafür in Frage kommen.
 
 [Blueprint]
 
