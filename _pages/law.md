@@ -14,7 +14,7 @@ header:
 ![security.svg](/assets/images/security.svg){: .align-left style="width: 200px"}
 **„My home is my castel“. Es geht niemanden etwas an, was in meinen vier Wänden passiert.** 
 
-Ihre Privatsphäre ist in Gefahr und 100% Schutz gibt es nicht !! ABER mit ein wenig Hirn-Schmalz und leider auch Aufwand, kann man aus diesem löchrigen Schuppen, ein einigermassen sicheres „Castel“ machen. Denn niemand hat Interesse, dass sein Tagesablauf an die Hersteller gesendet oder die letzten Party-/Ferien-Photos im Netz verteilt werden.
+Ihre Privatsphäre ist in Gefahr und 100%tiger Schutz gibt es nicht !! ABER mit ein wenig Hirn-Schmalz und leider auch Aufwand, kann man aus diesem löchrigen Schuppen, ein einigermassen sicheres „Castel“ machen. Denn niemand hat Interesse, dass sein Tagesablauf an die Hersteller gesendet oder die letzten Party-/Ferien-Photos im Netz verteilt werden.
 
 > Weiterführende Artikel:
 - [bsifb: Smart-Home](https://www.bsi-fuer-buerger.de/BSIFB/DE/DigitaleGesellschaft/IoT/SmartHome/SmartHome_node.html)
