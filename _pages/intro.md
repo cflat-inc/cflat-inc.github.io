@@ -22,7 +22,7 @@ Denn diese Aussage soll Programm sein. Das Ziel ist es, ein Smart-Home zu bauen:
 * Bei dem man unabhängig von einzelnen Anbietern ist. 
 * Und zum Schluss das wichtigste, dass das System von den (Mit)Bewohner akzeptiert wird.
 
-Zu diesem Zweck, habe ich, **_cFlat-inc_** gestartet. Dies um Möglichkeiten zu entwickeln und aufzuzeigen, wie man ein zeitgemässes Smart-Home System aufbauen kann. Denn die Hersteller verkaufen ihre Produkte unter der Prämisse: kaufen, App installieren, einstecken und fertig los. Und dies selbstverständlich bei jedem Hersteller einzeln. Dass Dies nicht stimmt, wissen die interessierten Leser ...
+Zu diesem Zweck, habe ich, **_cFlat-inc_** gestartet. Dies um Möglichkeiten zu entwickeln und aufzuzeigen, wie man ein sicheres und zeitgemässes Smart-Home System aufbauen kann. Denn die Hersteller verkaufen ihre Produkte unter der Prämisse: kaufen, App installieren, einstecken und fertig. Und dies selbstverständlich bei jedem Hersteller immer wieder. Das dies nicht funktionieren kann, wissen die interessierten Leser ...
 
 ## Wer bin ich
 
