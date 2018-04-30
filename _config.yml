@@ -2,7 +2,7 @@
 minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "de"
-title                    : "[ cFlat-inc ] <sup> >the Smart Home experts</sup>"
+title                    : "[ cFlat-inc ] <sub> > the Smart Home experts</sub>"
 title_separator          : "-"
 name                     : "cFlat-inc"
 description              : "The way to build a proper smart home"
