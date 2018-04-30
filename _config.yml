@@ -2,7 +2,7 @@
 minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "de"
-title                    : "[cFlat-inc] <sup>a proper Smart Home</sup>"
+title                    : "[cFlat-inc] <sub>a proper Smart Home</sub>"
 title_separator          : "-"
 name                     : "cFlat-inc"
 description              : "The way to build a proper smart home"
