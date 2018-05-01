@@ -12,9 +12,9 @@ published: true
 
 ## „I Have a Dream“[^1], jeder Mensch hat seinen Traum, meiner heisst _cFactory_. 
 
-### ** Gesucht
+### ** Gesucht **
 
-ist einen grosser Raum, in dem ich mein Büro / Labor / Demo-Wohnung einrichten und in ihm zusätzlich auch noch _wohnen_ kann.
+Einen grosser Raum, in dem ich mein Büro / Labor / Demo-Wohnung einrichten und in ihm zusätzlich auch noch _wohnen_ kann.
 
 Für diesen Traum suche ich, in der Region Zürich, einen Lagerraum, Fabrikhalle oder Ähnliches, mit der minimum Grösse von 15m Länge, 14m Breite und 5m Höhe, bei dem die Miete bezahlbar und der WAF-Faktor hoch ist.
 
