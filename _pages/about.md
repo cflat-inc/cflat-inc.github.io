@@ -36,6 +36,6 @@ Zwischenzeitlich hatte ich meine ersten Schritte in der OO-Welt mit Smalltalk, b
 
 Nachdem ich, mit dem damals neuen JavaScript, an einem Projekt eines SOA Systems mitgearbeitet habe, sind auch Themen wie Server-Side Javascript und (Micro)Services dazugekommen.
 
-Heute beschäftige ich mich neben der klassischen Web-Entwicklung (Front-End & Back-End), hauptsächlich mit innovativen Technologien wie Docker, Internet of things (IoT) und Smart-Home Automation. 
+Heute beschäftige ich mich neben der klassischen Web-Entwicklung (Front- & Back-End), hauptsächlich mit innovativen Technologien wie Docker, Internet of things (IoT) und Smart-Home Automation. 
 
 [More info](/downloads/Curriculum-Vitae.pdf){: .btn .btn--inverse .btn--large .align-center}
