@@ -18,7 +18,7 @@ Kurz und bündig, **_Flat_** steht für Wohnung und **_inc_** für „**i**t’s
 Denn diese Aussage soll Programm sein. Das Ziel ist es, ein Smart-Home zu bauen:
 
 * Deren Netz keiner löchrigen Scheune gleicht. 
-* Das keine Daten im Internet oder der Cloud verteilt, verschenkt oder gestohlen werden, denn sie sind das Öl des 21. Jahrhunderts
+* Das keine Nutzerdaten im Internet oder der Cloud verteilt, verschenkt oder gestohlen werden, denn sie sind das Öl des 21. Jahrhunderts
 * Bei dem man unabhängig von einzelnen Anbietern ist. 
 * Und zum Schluss das wichtigste, dass das System von den (Mit)Bewohner akzeptiert wird.
 
